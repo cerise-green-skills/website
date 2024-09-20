@@ -27,7 +27,7 @@ funded_by: "Universit\xE9 de Lorraine, French Minister for Higher Education and 
 green_skill_specificity_level: 'General '
 hei_category: Green skills courses
 id: 17
-image_url: https://formations.univ-lorraine.fr/modules/prestablog/views/img/grid-for-1-7/up-img/46.jpg?9fff019689cfba1182c7eef8f723aaa6
+image: https://formations.univ-lorraine.fr/modules/prestablog/views/img/grid-for-1-7/up-img/46.jpg?9fff019689cfba1182c7eef8f723aaa6
 languages: French
 location: "Online platform of the Universit\xE9 de Lorraine (Arche)\nCNED platform\
   \ (https://climat.cned.fr/formations)"
@@ -44,9 +44,102 @@ start_date: September (each year)
 target_audience: "Students of the Universit\xE9 de Lorraine"
 thematic_focus: Renewable energy, Environmental Education and Awareness, Biodiversity
 title: SENSE
-type: Online Course
+type_of_initiative: Online Course
 url_initiative: 'https://formations.univ-lorraine.fr/fr/blog/sense-le-module-pour-comprendre-les-enjeux-societaux-et-environnementaux-n46 '
 url_resources: https://factuel.univ-lorraine.fr/sites/factuel.univ-lorraine.fr/files/files/2024/u31850/fiche_certificat_sense.pdf
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Start date
+
+{{< meta start_date >}}
+
+### End date
+
+{{< meta end_date >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Contact name
+
+{{< meta contact_name >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

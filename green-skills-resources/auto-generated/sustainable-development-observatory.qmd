@@ -3,11 +3,24 @@ description: The Sustainable Development Observatory is a mechanism for recordin
   and monitoring all Sustainable Development initiatives and actions that are developed
   at the Greek National level, in the threefold Economy - Environment - Society
 id: 16
-image_url: https://observatory.sustainable-greece.com/_img/observatory-large-logo-new-en.png
+image: https://observatory.sustainable-greece.com/_img/observatory-large-logo-new-en.png
 link: https://observatory.sustainable-greece.com/home/?lang=en
 related_countries: GR
 target_domain: Green Initiatives Repository
 title: Sustainable Development Observatory
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

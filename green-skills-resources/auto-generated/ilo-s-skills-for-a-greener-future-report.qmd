@@ -2,11 +2,24 @@
 description: The first global report on the implications of the transition to low-carbon
   and resource-efficient economies for skills, gender and occupations.
 id: 4
-image_url: https://pact-for-skills.ec.europa.eu/sites/default/files/styles/oe_theme_publication_thumbnail/public/2022-08/Publication_Skills%20for%20a%20greener%20future%20-%20a%20global%20view.png?itok=eZEoXHbS
+image: https://pact-for-skills.ec.europa.eu/sites/default/files/styles/oe_theme_publication_thumbnail/public/2022-08/Publication_Skills%20for%20a%20greener%20future%20-%20a%20global%20view.png?itok=eZEoXHbS
 link: https://www.ilo.org/media/403841/download
 related_countries: Global
 target_domain: Green transition, green skills
 title: ILO's skills for a greener future report
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

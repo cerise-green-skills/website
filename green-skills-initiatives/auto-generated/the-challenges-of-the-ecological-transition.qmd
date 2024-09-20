@@ -16,7 +16,7 @@ funded_by: "This work benefited from financial support from the program\n\u201CI
   \ d'Avenir\u201D."
 hei_category: Green skills course
 id: 18
-image_url: https://www.edp-open.org/images/stories/books/covers/9782759826612_Enjeux-Transition-Ecologique.jpg
+image: https://www.edp-open.org/images/stories/books/covers/9782759826612_Enjeux-Transition-Ecologique.jpg
 languages: French
 partner: UniLu
 provider_name: "Universit\xE9 Paris Saclay"
@@ -24,9 +24,58 @@ quote: Teaching university undergraduates about the ecological transition
 recommendations: 'Make accessible this course to everyone '
 resources: Book
 title: The challenges of the ecological transition
-type: Course
+type_of_initiative: Course
 url_initiative: https://www.edp-open.org/books/edp-open-books/427-enjeux-de-la-transition-ecologique
 url_resources: https://www.edp-open.org/images/stories/books/fulldl/9782759826612_Enjeux-Transition-Ecologique_ebook.pdf
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

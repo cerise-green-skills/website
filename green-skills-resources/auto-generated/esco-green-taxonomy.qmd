@@ -3,11 +3,24 @@ description: The ESCO classification identifies and categorises skills, competen
   and occupations relevant for the EU labour market and education and training. It
   systematically shows the relationships between the different concepts.
 id: 7
-image_url: https://eurofamnet.eu/sites/default/files/agencies/esco.jpg
+image: https://eurofamnet.eu/sites/default/files/agencies/esco.jpg
 link: https://esco.ec.europa.eu/en
 related_countries: EU countries
 target_domain: Green skills, green jobs
 title: ESCO Green Taxonomy
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

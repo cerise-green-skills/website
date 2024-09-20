@@ -40,7 +40,7 @@ funded_by: "European Union\xB4s Erasmus+ Programme (Grant Agreement n\xBA 101089
 funding_amount: 14.4 million euros
 hei_category: Other
 id: 1
-image_url: https://eugreenalliance.eu/wp-content/uploads/2022/12/logo-eugreen.png
+image: https://eugreenalliance.eu/wp-content/uploads/2022/12/logo-eugreen.png
 impact: '158
 
   k students'
@@ -61,9 +61,90 @@ target_audience: Students, Teachers
 thematic_focus: Environmental Education and Awareness, Sustainable Business Practices,
   Policy and Governance, Community Engagement and Outreach
 title: EU GREEN
-type: Network
+type_of_initiative: Network
 url_initiative: https://eugreenalliance.eu/
 url_resources: https://eugreenalliance.eu/eu-green-blended-intensive-programmes-bips/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Impact
+
+{{< meta impact >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Funding amount
+
+{{< meta funding_amount >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

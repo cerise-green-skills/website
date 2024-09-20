@@ -36,7 +36,7 @@ funding_amount: "362 183,00 \u20AC"
 green_skill_specificity_level: Domain-specific
 hei_category: Labor market
 id: 11
-image_url: https://sky-project.eu/wp-content/uploads/2019/05/sky-40-logo-06.png
+image: https://sky-project.eu/wp-content/uploads/2019/05/sky-40-logo-06.png
 languages: English
 location: https://sky-project.eu/en/resources/
 partner: UITM
@@ -57,9 +57,98 @@ target_audience: Students in aerospace industry
 thematic_focus: Sustainable Transportation, Energy Efficiency, Sustainable Business
   Practices.
 title: Sky4.0
-type: Educational Program, course, Course, Workshop
+type_of_initiative: Educational Program, course, Course, Workshop
 url_initiative: https://sky-project.eu/en/
 url_resources: https://sky-project.eu/en/resources/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Contact name
+
+{{< meta contact_name >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Funding amount
+
+{{< meta funding_amount >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

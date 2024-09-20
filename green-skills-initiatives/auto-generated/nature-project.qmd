@@ -30,7 +30,7 @@ description: 'NATURE is an experiential learning intervention for building the c
 funded_by: European Commission under the Erasmus+ Programme of the European Union
 hei_category: Other
 id: 9
-image_url: https://ec.europa.eu/programmes/erasmus-plus/project-result-content/3a42d37f-96f8-4d00-b93f-f545a8a0d0c8/logo1500.png
+image: https://ec.europa.eu/programmes/erasmus-plus/project-result-content/3a42d37f-96f8-4d00-b93f-f545a8a0d0c8/logo1500.png
 languages: English
 partner: UniLu
 provider_name: Nature Project
@@ -46,9 +46,66 @@ target_audience: 'Higher education students
 
   '
 title: Nature Project
-type: Game
+type_of_initiative: Game
 url_initiative: http://www.projectnature.eu/
 url_resources: https://drive.google.com/file/d/1BrUpNqACgGy-tl_H0aonn1klpNxtEDac/view
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Content
+
+{{< meta content >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

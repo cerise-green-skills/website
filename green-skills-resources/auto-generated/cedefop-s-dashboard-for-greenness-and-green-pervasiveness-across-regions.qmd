@@ -4,11 +4,24 @@ description: This dashboard presents trends in greenness and pervasiveness acros
   the top 30 green skills for selected occupations, defined by ESCO v 1.1.1 and augmented
   by Cedefop.
 id: 13
-image_url: https://www.cedefop.europa.eu/files/images/logo-skills-online-vacancies.png
+image: https://www.cedefop.europa.eu/files/images/logo-skills-online-vacancies.png
 link: https://cedefop.europa.eu/en/tools/skills-online-vacancies/greenness-and-green-pervasiveness-across-regions
 related_countries: EU countries
 target_domain: Energy, green jobs
 title: CEDEFOP's dashboard for greenness and green pervasiveness across regions
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

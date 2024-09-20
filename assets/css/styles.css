@@ -18,3 +18,7 @@ body {
 .navbar-logo {
     max-height: 36px;
 }
+
+.quarto-figure-center .caption{
+  text-align: center;
+}

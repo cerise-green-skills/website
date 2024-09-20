@@ -7,11 +7,24 @@ description: "Cedefop Green Observatory (Cedefop GO) includes Cedefop\u2019s wor
   \ play in supporting transitions in the short-term, as well as in reaching a new\
   \ sustainability paradigm in the longer run."
 id: 14
-image_url: https://cepis.org/app/uploads/2019/12/Logo_Cedefop_1.jpg
+image: https://cepis.org/app/uploads/2019/12/Logo_Cedefop_1.jpg
 link: https://www.cedefop.europa.eu/en/themes/green-observatory
 related_countries: EU countries
 target_domain: Green Transition, VET
 title: CEDEFOP's Green Observatory
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

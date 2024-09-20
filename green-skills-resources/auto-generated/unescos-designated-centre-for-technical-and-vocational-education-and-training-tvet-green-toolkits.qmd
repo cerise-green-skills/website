@@ -9,7 +9,7 @@ description: 'This platform aims to provide TVET stakeholders and practitioners 
   bring the many and varied toolkits into one place and to provide a guide and resource
   for:'
 id: 20
-image_url: https://unevoc.unesco.org/august/logo-unevoc.png
+image: https://unevoc.unesco.org/august/logo-unevoc.png
 link: https://unevoc.unesco.org/home/Toolkits+for+TVET+providers/lang=en#tbar
 related_countries: Global
 target_domain: Repository of toolkits
@@ -17,4 +17,17 @@ title: "UNESCO\u2019s designated centre for technical and vocational education a
   \ training (TVET): Green toolkits"
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

@@ -37,7 +37,7 @@ description: "A Roadmap to Energy Management and Sustainable Development has bee
   \ & Research\n- Community & Culture"
 hei_category: Other
 id: 14
-image_url: http://envio.ntua.gr/v1/wp-content/uploads/2021/05/logo-envio-02.jpg
+image: http://envio.ntua.gr/v1/wp-content/uploads/2021/05/logo-envio-02.jpg
 languages: 'English, Greek
 
   '
@@ -59,9 +59,86 @@ thematic_focus: Energy Efficiency, Green building, Environmnental Education and 
   Policy and Governance
 title: "\u0395\u039D \u0392\u0399\u03A9 \u0395\u039C\u03A0 - NTUA\u2019s Roadmap to\
   \ Energy Management & Sustainable Development"
-type: Project
+type_of_initiative: Project
 url_initiative: 'http://envio.ntua.gr/v1/en/home-english/ '
 url_resources: http://envio.ntua.gr/v1/case_study/online-dedomena-energeiakis-katanalosis/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Provider type
+
+{{< meta provider_type >}}
+
+### Contact name
+
+{{< meta contact_name >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

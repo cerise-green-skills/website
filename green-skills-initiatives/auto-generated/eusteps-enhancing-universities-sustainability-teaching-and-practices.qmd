@@ -40,7 +40,7 @@ duration: '50 hours overall, corresponding to approximately 7 hours per week.
 
   '
 id: 2
-image_url: https://ecodynamics.unisi.it/wp-content/uploads/sites/112/2020/02/EUSTEPS-Logo-Official.jpg
+image: https://ecodynamics.unisi.it/wp-content/uploads/sites/112/2020/02/EUSTEPS-Logo-Official.jpg
 languages: English, Italian, Greek, Portuguese
 partner: UniLu
 provider_name: EUSTEPs
@@ -58,4 +58,61 @@ url_resources: 'https://www.eusteps.eu/resources/student-educator-teaching-mater
   https://eusteps.footprintcalculator.org/'
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+

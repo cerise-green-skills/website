@@ -3,11 +3,24 @@ description: 'Featured resources created by the Earthwatch Education team. Some 
   these resources have been created in collaboration with partners such as LEGO and
   Guinness World Records. '
 id: 15
-image_url: https://edu.earthwatch.org.uk/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoibTEycTRwc3hxMHB5c3pxODJ1c3V0YWszcXNuaiIsImRvbWFpbiI6ImVkdS5lYXJ0aHdhdGNoLm9yZy51ayJ9.7JaRKJnfiJlm91tvEp-lYqJUWImgttJ4Kvdp-PjvsAo
+image: https://edu.earthwatch.org.uk/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoibTEycTRwc3hxMHB5c3pxODJ1c3V0YWszcXNuaiIsImRvbWFpbiI6ImVkdS5lYXJ0aHdhdGNoLm9yZy51ayJ9.7JaRKJnfiJlm91tvEp-lYqJUWImgttJ4Kvdp-PjvsAo
 link: https://edu.earthwatch.org.uk/featured
 related_countries: UK/EU
 target_domain: Green education
 title: Earthwatch education
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

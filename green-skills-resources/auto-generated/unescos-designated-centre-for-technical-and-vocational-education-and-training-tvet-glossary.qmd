@@ -2,7 +2,7 @@
 description: Glossary of VET related terms, including various terms regarding green
   skills and the green transition
 id: 19
-image_url: https://unevoc.unesco.org/august/logo-unevoc.png
+image: https://unevoc.unesco.org/august/logo-unevoc.png
 link: https://unevoc.unesco.org/home/TVETipedia+Glossary/lang=en/show=term/term=Green+skills
 related_countries: Global
 target_domain: Glossary
@@ -10,4 +10,17 @@ title: "UNESCO\u2019s designated centre for technical and vocational education a
   \ training (TVET): Glossary"
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

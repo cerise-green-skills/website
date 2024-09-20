@@ -20,7 +20,7 @@ description: "Green Skills for Jobs and Entrepreneurship is an award winning, tr
   \ underrepresentation of people from minoritised backgrounds in environmental careers,\
   \ recognising that the sector is the second least diverse in the UK."
 id: 16
-image_url: https://static.wixstatic.com/media/8e13f2_ca75300bbada4c3f9ac603acd9b12b99~mv2.jpg/v1/fill/w_588,h_146,al_c,lg_1,q_80,enc_auto/8e13f2_ca75300bbada4c3f9ac603acd9b12b99~mv2.jpg
+image: https://static.wixstatic.com/media/8e13f2_ca75300bbada4c3f9ac603acd9b12b99~mv2.jpg/v1/fill/w_588,h_146,al_c,lg_1,q_80,enc_auto/8e13f2_ca75300bbada4c3f9ac603acd9b12b99~mv2.jpg
 impact: supported and remunerated 90 young people
 languages: English
 partner: UniLu
@@ -30,4 +30,41 @@ title: Green Skills for Jobs and Entrepreneurship
 url_initiative: https://www.greenskillsforjobs.co.uk/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Content
+
+{{< meta content >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Impact
+
+{{< meta impact >}}
+
+### Contact name
+
+{{< meta contact_name >}}
+

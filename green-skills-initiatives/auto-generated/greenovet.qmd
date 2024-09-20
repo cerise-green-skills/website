@@ -23,7 +23,7 @@ description: GREENOVET is an international project that fosters the development 
 funded_by: European Partners and co-funded by Erasmus+ Programme of the European Union
 hei_category: Labor Market
 id: 6
-image_url: https://www.greenovet.eu/site/imagens/logo_3.png
+image: https://www.greenovet.eu/site/imagens/logo_3.png
 languages: English, German, Finnish, Macedonian, Portuguese, Swedish
 location: 'Styria (Austria), Vaasa (Finland), Skopje (North Macedonia), Leiria (Portugal)
   and online platform '
@@ -33,8 +33,65 @@ quote: A sustainable future with green innovation
 recommendations: '- No provided ressources on the website'
 target_audience: Students, Teachers
 title: GREENOVET
-type: Project
+type_of_initiative: Project
 url_initiative: https://www.greenovet.eu/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

@@ -21,7 +21,7 @@ funded_by: "European Union under the Erasmus+ Program, KA220 \u2013 Cooperation 
   \ for higher education. Project Number: - 2021-1-BG01 KA220-HED-000089475"
 funding_amount: "250.000,00 \u20AC"
 id: 3
-image_url: https://futurework4s.eu/wp-content/uploads/2023/06/cropped-cropped-Work4_s_LOGO_Color-NoBG-Resized.png
+image: https://futurework4s.eu/wp-content/uploads/2023/06/cropped-cropped-Work4_s_LOGO_Color-NoBG-Resized.png
 languages: English, Italian, Czech, Bulgarian
 location: Online
 partner: UniLu
@@ -35,9 +35,70 @@ recommendations: '4 transversal skills that are identified as critical for the w
 resources: Mooc
 target_audience: Students
 title: "Future Work 4\u2019s"
-type: MOOC
+type_of_initiative: MOOC
 url_initiative: https://futurework4s.eu/
 url_resources: https://futurework4s.eu/mooc-platform/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Funding amount
+
+{{< meta funding_amount >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

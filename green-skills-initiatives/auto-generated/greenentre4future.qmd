@@ -35,7 +35,7 @@ description: 'The GreenEntre4Future project aims to involve and train Youth Work
   seize job opportunities and to create synergies and collaboration in green sector.'
 funded_by: "Erasmus+ Programme \u2013 Strategic Partnership - Project Nr: 2021-1-CY02-KA220-YOU-000029171"
 id: 5
-image_url: https://mooc.greenentre4future.eu/wp-content/uploads/2023/02/logo-png.png
+image: https://mooc.greenentre4future.eu/wp-content/uploads/2023/02/logo-png.png
 languages: English, Portuguese, Italian, Greek, French, Dutch
 location: Online
 partner: UniLu
@@ -48,9 +48,70 @@ target_audience: The project is addressed at strengthening and validating compet
   experts, educators, staff, stakeholders (policymakers, green businesses, consumers)
   for environmental change, support investments and related growth.
 title: Greenentre4future
-type: MOOC
+type_of_initiative: MOOC
 url_initiative: http://www.greenentre4future.eu/
 url_resources: https://mooc.greenentre4future.eu/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

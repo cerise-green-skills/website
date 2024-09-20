@@ -14,7 +14,7 @@ description: "The INCO Academy Green Digital Skills Certificate program will emp
 duration: 18-25 hours (to be completed within 5 weeks)
 funded_by: 'Microsoft and LinkedIn '
 id: 22
-image_url: https://static.wixstatic.com/media/e37d76_6b6fa4cdce9d4635be4b2f4c4c48fa43~mv2.png/v1/fill/w_470,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%5BGreen%20Digital%20Skills%5D%20Program%20Logo%20-%20Colour.png
+image: https://static.wixstatic.com/media/e37d76_6b6fa4cdce9d4635be4b2f4c4c48fa43~mv2.png/v1/fill/w_470,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%5BGreen%20Digital%20Skills%5D%20Program%20Logo%20-%20Colour.png
 languages: English, French, Polish, Spanish, Greek, Indonesia, Portuguese
 location: Website
 partner: UniLu
@@ -26,4 +26,53 @@ title: Green Digital Skills
 url_initiative: https://www.greenskills.inco-group.co/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

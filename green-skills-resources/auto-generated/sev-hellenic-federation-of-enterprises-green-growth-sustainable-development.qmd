@@ -10,7 +10,7 @@ description: "Sustainability is imperative for long-term business success. By in
   \ that levels the playing field and turns climate and environmental challenges into\
   \ opportunities."
 id: 18
-image_url: https://en.sev.org.gr/wp-content/uploads/2018/01/sev-top-logo.png
+image: https://en.sev.org.gr/wp-content/uploads/2018/01/sev-top-logo.png
 link: https://en.sev.org.gr/business_priorities/green-growth-sustainability/
 related_countries: GR
 target_domain: Green business
@@ -18,4 +18,17 @@ title: "SEV \u2013 Hellenic Federation of Enterprises: Green Growth & Sustainabl
   \ Development"
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

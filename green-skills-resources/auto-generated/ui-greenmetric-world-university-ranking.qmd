@@ -9,11 +9,24 @@ description: "The UI GreenMetric World University Ranking is a ranking system fo
   \ them to reduce their ecological footprints while enhancing their sustainability\
   \ education and research efforts."
 id: 2
-image_url: https://bu.edu.eg/univ_info/images/Ranking/UIGreen.png
+image: https://bu.edu.eg/univ_info/images/Ranking/UIGreen.png
 link: http://greenmetric.ui.ac.id/
 related_countries: Global
 target_domain: University rankings
 title: UI GreenMetric World University Ranking
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

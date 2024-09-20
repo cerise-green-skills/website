@@ -12,11 +12,24 @@ description: "Sustainability Literacy Test (Sulitest) was created in France afte
   \ Development Goals, and in 2017 as a contributor to the review of the 2030 Agenda\
   \ through the High-level Political Forum on Sustainable Development."
 id: 6
-image_url: https://cdn.prod.website-files.com/65280e69dc36aa08d8c6a40e/65280e69dc36aa08d8c6a43b_logo-sulitest-certification-developpement-durable.svg
+image: https://cdn.prod.website-files.com/65280e69dc36aa08d8c6a40e/65280e69dc36aa08d8c6a43b_logo-sulitest-certification-developpement-durable.svg
 link: https://www.sulitest.org/
 related_countries: Global
 target_domain: Green education
 title: Sustainability Literacy Test (Sulitest)
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

@@ -9,4 +9,15 @@ title: 'EC''s toolkit for green skills: a guide to upskilling and reskilling wor
   for the green transition'
 ---
 
-{{< meta description >}}
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

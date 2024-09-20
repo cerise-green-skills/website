@@ -5,11 +5,24 @@ description: This dashboard displays trends in online job advertisements for ren
   number of OJA by detailed occupation in a year, and the total number of OJAs for
   renewable energy and related occupations by country.
 id: 10
-image_url: https://cepis.org/app/uploads/2019/12/Logo_Cedefop_1.jpg
+image: https://cepis.org/app/uploads/2019/12/Logo_Cedefop_1.jpg
 link: https://www.cedefop.europa.eu/en/tools/skills-online-vacancies/renewable-energy-and-related-occupations
 related_countries: EU countries
 target_domain: Energy, green jobs
 title: CEDEFOP's dashboard for renewable energy and related occupations
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

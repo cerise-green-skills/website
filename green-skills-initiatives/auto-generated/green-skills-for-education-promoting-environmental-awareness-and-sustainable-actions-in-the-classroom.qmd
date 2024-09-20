@@ -20,7 +20,7 @@ funded_by: European Union
 green_skill_specificity_level: Transversal
 hei_category: Green skills courses
 id: 7
-image_url: https://www.erasmustrainingcourses.com/uploads/6/5/6/3/65630323/editor/logoelatextblue.png?1616195789
+image: https://www.erasmustrainingcourses.com/uploads/6/5/6/3/65630323/editor/logoelatextblue.png?1616195789
 languages: English
 location: Physical location (Bologna, Tenerife, Palermo, Porto, Thessaloniki)
 partner: UL
@@ -37,9 +37,90 @@ target_audience: Teachers
 thematic_focus: Environmental Education and Awareness
 title: 'Green skills for education: promoting environmental awareness and sustainable
   actions in the classroom.'
-type: Training
+type_of_initiative: Training
 url_initiative: https://www.erasmustrainingcourses.com/green-skills.html
 url_resources: 'https://drive.google.com/file/d/1_ZLF6CGx9GDoiO-bQJrKnfJJdv7jAt96/view  '
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Provider type
+
+{{< meta provider_type >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

@@ -15,7 +15,7 @@ funded_by: The Edinburgh Earth Initiative is funded by the University of Edinbur
   and external supporters
 green_skill_specificity_level: Transversal
 id: 15
-image_url: https://earth.ed.ac.uk/wp-content/uploads/2022/09/our-vision-edinburgh-earth-initiative-2.jpg
+image: https://earth.ed.ac.uk/wp-content/uploads/2022/09/our-vision-edinburgh-earth-initiative-2.jpg
 languages: English
 location: University of Edinburgh, On-campus and Online
 partner: UITM
@@ -32,11 +32,72 @@ thematic_focus: Waste Management, Renewable Energy, Sustainable Transportation, 
   Urban Planning, Green Building, Environmental Education and Awareness, Sustainable
   Business Practices, Policy and Governance, Community Engagement and Outreach
 title: Edinburgh Earth Initiative
-type: Educational Program
+type_of_initiative: Educational Program
 url_initiative: https://earth.ed.ac.uk/
 url_resources: 'https://earth.ed.ac.uk/nbl-guidelines/
 
   https://earth.ed.ac.uk/outdoor-learning-sites/'
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Provider type
+
+{{< meta provider_type >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

@@ -5,11 +5,24 @@ description: "The Times Higher Education Impact Rankings are the only global per
   \ and balanced comparison across four broad areas: research, stewardship, outreach\
   \ and teaching."
 id: 3
-image_url: https://www.timeshighereducation.com/cms-academic/sites/default/files/2023-10/THE%20LOGO_0.png
+image: https://www.timeshighereducation.com/cms-academic/sites/default/files/2023-10/THE%20LOGO_0.png
 link: https://www.timeshighereducation.com/rankings/impact/2023/climate-action
 related_countries: Global
 target_domain: University rankings
 title: Times Higher Education Impact Rankings
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+

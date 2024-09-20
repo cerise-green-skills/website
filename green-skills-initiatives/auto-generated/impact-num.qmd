@@ -60,7 +60,7 @@ end_date: anytime
 green_skill_specificity_level: Domain-general
 hei_category: Green skills courses
 id: 21
-image_url: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/d1/15/d115473e-b08e-4974-a41f-ab2c763c9157/moocimpactnumvignette_cataloguefun-fr.png__600x340_q85_crop-smart_subsampling-2_upscale.jpg
+image: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/d1/15/d115473e-b08e-4974-a41f-ab2c763c9157/moocimpactnumvignette_cataloguefun-fr.png__600x340_q85_crop-smart_subsampling-2_upscale.jpg
 languages: French, English
 location: 'Online: https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/'
 partner: UniLu
@@ -77,9 +77,98 @@ target_audience: Students; Teacherss
 thematic_focus: Environmental Education and Awareness; Energy Efficiency; Digital
   Technologies
 title: Impact'Num
-type: Course
+type_of_initiative: Course
 url_initiative: https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/
 url_resources: https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Start date
+
+{{< meta start_date >}}
+
+### End date
+
+{{< meta end_date >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Provider type
+
+{{< meta provider_type >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

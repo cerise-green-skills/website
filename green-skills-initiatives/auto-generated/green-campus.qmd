@@ -31,7 +31,7 @@ funded_by: 'Erasmus+ Sport Project, funded
 
   by the European Union'
 id: 4
-image_url: https://i0.wp.com/www.greencampusproject.eu/wp-content/uploads/2023/03/Logo_GreenCampus_site.png?fit=1000%2C559&ssl=1
+image: https://i0.wp.com/www.greencampusproject.eu/wp-content/uploads/2023/03/Logo_GreenCampus_site.png?fit=1000%2C559&ssl=1
 languages: English
 partner: UniLu
 provider_name: SportAcademy
@@ -46,4 +46,53 @@ url_initiative: https://www.greencampusproject.eu/
 url_resources: https://sportacademy.app/courses/green-campus/
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Content
+
+{{< meta content >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

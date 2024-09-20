@@ -19,7 +19,7 @@ description: "Education4Climate aims at promoting education about climate and en
   \ content of the pages of the courses published on the universities\u2019s websites,\
   \ to identify those covering climate and environmental sustainability."
 id: 20
-image_url: https://education4climate.be/img/ogimage.png
+image: https://education4climate.be/img/ogimage.png
 languages: English, French, Dutch
 location: Website
 partner: UniLu
@@ -32,4 +32,49 @@ url_initiative: https://education4climate.be/index.html?lang=fr
 url_resources: https://education4climate.be/programs.html?lang=fr
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+

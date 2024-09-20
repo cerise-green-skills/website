@@ -25,7 +25,7 @@ funded_by: "The French government as part of the \u201CTerritoires d'innovation 
 green_skill_specificity_level: 'Transversal, Domain specific '
 hei_category: Labor Market
 id: 19
-image_url: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/cf/c1/cfc1f0ba-b0af-40aa-8e8b-4d95a84f9d9b/uved34011session01.png__800x457_q85_crop_replace_alpha-%23FFFFFF_subsampling-2_upscale.jpg
+image: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/cf/c1/cfc1f0ba-b0af-40aa-8e8b-4d95a84f9d9b/uved34011session01.png__800x457_q85_crop_replace_alpha-%23FFFFFF_subsampling-2_upscale.jpg
 impact: '27490 registred particpants in total (since 2020) '
 languages: French
 location: MOOC (FUN Mooc) + once the sessions have ended, outside the MOOC context
@@ -41,7 +41,7 @@ resources: 46 videos / Course sheet
 target_audience: Students
 thematic_focus: Sustainable business practice, Vocational guidance
 title: Discovering careers in the Ecological Transition, creating jobs
-type: MOOC
+type_of_initiative: MOOC
 url_initiative: https://www.uved.fr/mooc-metiers-te
 url_resources: 'https://www.uved.fr/fiche/parcours/les-metiers-de-la-transition-ecologique-creatrice-demplois/1/approfondi#sequence
 
@@ -49,4 +49,89 @@ url_resources: 'https://www.uved.fr/fiche/parcours/les-metiers-de-la-transition-
   https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiche-MOOC_MetiersTE-3.pdf'
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Duration
+
+{{< meta duration >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### End date
+
+{{< meta end_date >}}
+
+### Impact
+
+{{< meta impact >}}
+
+### Provider type
+
+{{< meta provider_type >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

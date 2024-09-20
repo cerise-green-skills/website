@@ -24,7 +24,7 @@ description: UNIgreen is an Alliance of eight Higher Education Institutions focu
 funded_by: Funded by the European Union.
 hei_category: Other
 id: 12
-image_url: https://unigreen-alliance.eu/wp-content/uploads/2023/09/logo-unigreen@2x.png
+image: https://unigreen-alliance.eu/wp-content/uploads/2023/09/logo-unigreen@2x.png
 languages: English
 location: unigreen website and universities
 partner: UniLu
@@ -34,7 +34,7 @@ recommendations: 'The core of the UNIgreen Virtual Campus will be the e-learning
   based on LMS Blackboard. '
 target_audience: Students, Teachers, Staff
 title: UNIgreen
-type: Project
+type_of_initiative: Project
 url_initiative: https://unigreen-alliance.eu/
 url_resources: 'https://unigreen-alliance.eu/education/unigreen-courses/#courses-for-students
 
@@ -43,4 +43,61 @@ url_resources: 'https://unigreen-alliance.eu/education/unigreen-courses/#courses
   '
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

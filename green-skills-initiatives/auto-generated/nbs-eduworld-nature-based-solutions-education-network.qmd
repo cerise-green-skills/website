@@ -24,7 +24,7 @@ funded_by: "European Union - Programme HORIZON (Grant Agreement n\xBA 101060525)
 green_skill_specificity_level: Transversal
 hei_category: Other
 id: 10
-image_url: https://nbseduworld.eu/maintemplate/data/logos/logo.png
+image: https://nbseduworld.eu/maintemplate/data/logos/logo.png
 languages: English
 location: NBS EduWORLD Website
 partner: KTU
@@ -42,9 +42,98 @@ thematic_focus: Nature-based Solutions, Waste Management, Water Management, Biod
   Conservation, Urban planning, Green Building, Environmental Education and Awareness,
   Community Engagement and Outreach.
 title: NBS EduWORLD (Nature-based Solutions Education Network)
-type: Project
+type_of_initiative: Project
 url_initiative: https://nbseduworld.eu/
 url_resources: https://nbseduworld.eu/resources
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+## Provider
+
+{{< meta provider_name >}}
+
+## Creator
+
+{{< meta creator_name >}}
+
+### Partner
+
+{{< meta partner >}}
+
+### Hei category
+
+{{< meta hei_category >}}
+
+### Quote
+
+{{< meta quote >}}
+
+### Languages
+
+{{< meta languages >}}
+
+### Url initiative
+
+{{< meta url_initiative >}}
+
+### Resources
+
+{{< meta resources >}}
+
+### Url resources
+
+{{< meta url_resources >}}
+
+### Target audience
+
+{{< meta target_audience >}}
+
+### Type of initiative
+
+{{< meta type_of_initiative >}}
+
+### Thematic focus
+
+{{< meta thematic_focus >}}
+
+### Green skill specificity level
+
+{{< meta green_skill_specificity_level >}}
+
+### Location
+
+{{< meta location >}}
+
+### Content
+
+{{< meta content >}}
+
+### Cost
+
+{{< meta cost >}}
+
+### Start date
+
+{{< meta start_date >}}
+
+### End date
+
+{{< meta end_date >}}
+
+### Creator role
+
+{{< meta creator_role >}}
+
+### Contact email
+
+{{< meta contact_email >}}
+
+### Funded by
+
+{{< meta funded_by >}}
+
+### Recommendations
+
+{{< meta recommendations >}}
+

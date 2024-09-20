@@ -2,11 +2,24 @@
 description: A list of resources published by the LinkedIn p[latform regarding green
   skills and the green transition
 id: 8
-image_url: https://content.linkedin.com/content/dam/me/economicgraph/en-us/banners/green-gender-lp-desktop-header.png/jcr:content/renditions/d-2.png
+image: https://content.linkedin.com/content/dam/me/economicgraph/en-us/banners/green-gender-lp-desktop-header.png/jcr:content/renditions/d-2.png
 link: https://economicgraph.linkedin.com/research/green-skills-resources
 related_countries: Global
 target_domain: Green skills, green jobs
 title: LinkedIn's List of Green Resources
 ---
 
-{{< meta description >}}
+![{{< meta title >}}]({{< meta image >}})
+
+### Link
+
+{{< meta link >}}
+
+### Related countries
+
+{{< meta related_countries >}}
+
+### Target domain
+
+{{< meta target_domain >}}
+
