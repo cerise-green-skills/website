@@ -1,0 +1,78 @@
+## Nature Project
+### Description
+
+NATURE is an experiential learning intervention for building the capacity of higher education students to adopt responsible behavior on natural resources management and to design solutions for environmental sustainability in everyday and professional activities. The proposed learning intervention will:
+- Build awareness on the importance of sustainable natural resources management for the well-being of communities and plant and animal species.
+- Develop theoretical knowledge and practical skills that empower students to become active citizens designing environmentally sustainable solutions.
+- Develop soft skills that foster innovative mindsets that help students become the problem-solvers of tomorrow towards sustainable practices in the industry and society.
+
+### Type of Initiative
+
+Game
+
+### Provider
+
+Nature Project
+
+### Creator
+
+University of Thessaly, Greece, Tallinn University,  Estonia, Universida de Vigo, Spain, Virtual Campus, Portugal, EU-TRACK, Italy, Latvian Cultural college
+
+
+### description
+
+NATURE is an experiential learning intervention for building the capacity of higher education students to adopt responsible behavior on natural resources management and to design solutions for environmental sustainability in everyday and professional activities. The proposed learning intervention will:
+- Build awareness on the importance of sustainable natural resources management for the well-being of communities and plant and animal species.
+- Develop theoretical knowledge and practical skills that empower students to become active citizens designing environmentally sustainable solutions.
+- Develop soft skills that foster innovative mindsets that help students become the problem-solvers of tomorrow towards sustainable practices in the industry and society.
+
+### language
+
+English
+
+### url_initiative
+
+http://www.projectnature.eu/
+
+### resources
+
+Game
+
+### url_resources
+
+https://drive.google.com/file/d/1BrUpNqACgGy-tl_H0aonn1klpNxtEDac/view
+
+### target_audience
+
+Higher education students
+Higher education instructors and organizations
+
+
+
+### type
+
+Game
+
+### content
+
+NATURE will develop an experiential learning intervention for building the capacity of higher
+education students to adopt responsible behavior on natural resources management and to design solutions for environmental sustainability in everyday and professional activities.
+In order to achieve those goals, the NATURE project deploys a Unity-based city builder type serious game demonstrating to students how to prevent, prepare and recover from different type of disasters in a city-wide environment.
+
+### creator_name
+
+University of Thessaly, Greece, Tallinn University,  Estonia, Universida de Vigo, Spain, Virtual Campus, Portugal, EU-TRACK, Italy, Latvian Cultural college
+
+
+### provider_name
+
+Nature Project
+
+### funded_by
+
+European Commission under the Erasmus+ Programme of the European Union
+
+### recommendations
+
+Digital learning games and learning activities targeting student, building awareness, green skills and competencies on responsible natural resources management
+

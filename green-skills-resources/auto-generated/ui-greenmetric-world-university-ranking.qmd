@@ -1,0 +1,10 @@
+## UI GreenMetric World University Ranking
+### Description
+
+The UI GreenMetric World University Ranking is a ranking system focused on green campus and environmental sustainability, initiated by Universitas Indonesia in 2010. It evaluates universities worldwide based on their commitment to environmental sustainability. The ranking uses 39 indicators distributed across six main criteria: Setting and Infrastructure, Energy and Climate Change, Waste, Water, Transportation, and Education.
+This initiative aims to promote environmental awareness and sustainable practices among higher education institutions globally and encourages them to reduce their ecological footprints while enhancing their sustainability education and research efforts.
+
+### Image_url
+
+https://bu.edu.eg/univ_info/images/Ranking/UIGreen.png
+

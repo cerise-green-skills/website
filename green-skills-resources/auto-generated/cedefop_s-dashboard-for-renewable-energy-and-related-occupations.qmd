@@ -1,0 +1,9 @@
+## CEDEFOP's dashboard for renewable energy and related occupations
+### Description
+
+This dashboard displays trends in online job advertisements for renewable energy and related occupations. It presents an index showing trends over time of OJA for these occupations (with reference quarter 2020Q1), the breakdown of the number of OJA by detailed occupation in a year, and the total number of OJAs for renewable energy and related occupations by country.
+
+### Image_url
+
+https://cepis.org/app/uploads/2019/12/Logo_Cedefop_1.jpg
+

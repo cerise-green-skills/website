@@ -1,0 +1,111 @@
+## ΕΝ ΒΙΩ ΕΜΠ - NTUA’s Roadmap to Energy Management & Sustainable Development
+### Description
+
+A Roadmap to Energy Management and Sustainable Development has been compiled to promote sound energy management and sustainability practices as well as to align the efforts of the numerous respective groups and stakeholders across NTUA campuses. To incorporate and advance sound energy management and sustainability across NTUA’s facilities, infrastructure, operations, curriculum, research and community, the Roadmap to Energy Management and Sustainable Development is organised into three main pillars of action:
+- Environmental Protection
+- Education & Research
+- Community & Culture
+
+### Type of Initiative
+
+Project
+
+### Provider
+
+National Technical University of Athens (NTUA) 
+
+### Creator
+
+NTUA’s Senate Committee for Energy Management & Sustainability
+
+### description
+
+A Roadmap to Energy Management and Sustainable Development has been compiled to promote sound energy management and sustainability practices as well as to align the efforts of the numerous respective groups and stakeholders across NTUA campuses. To incorporate and advance sound energy management and sustainability across NTUA’s facilities, infrastructure, operations, curriculum, research and community, the Roadmap to Energy Management and Sustainable Development is organised into three main pillars of action:
+- Environmental Protection
+- Education & Research
+- Community & Culture
+
+### language
+
+English, Greek
+
+
+### url_initiative
+
+http://envio.ntua.gr/v1/en/home-english/ 
+
+### resources
+
+E.g., Online consumption data of different buildings
+
+### url_resources
+
+http://envio.ntua.gr/v1/case_study/online-dedomena-energeiakis-katanalosis/
+
+### target_audience
+
+Students, Teachers, Administrattive staff
+
+### type
+
+Project
+
+### thematic_focus
+
+Energy Efficiency, Green building, Environmnental Education and Awareness, Policy and Governance
+
+### location
+
+National Technical University of Athens
+
+### content
+
+Teaching (actions): 
+ - Coordinate and effectively support undergraduate advising services to direct interested students to relevant courses, orientations, internships, and group activities. 
+ - Enhance learning for sustainability related services. 
+ - Inclusion of sustainable education in all first-year seminars. 
+ - Tools, seminars and incentives for integrating sustainable development components into current curricula. 
+
+Research and innovation (actions): 
+ - Increasing the number of patents, licenses and start-ups (for-profit and not-for-profit) in the field of sustainable development. 
+ - Identifying innovative approaches in vital areas and enabling a mechanism to enable students, academics and other staff to promote ideas that will have a positive impact. 
+ - Utilization of NTUA facilities and spaces as a "living/dynamic laboratory" for academics and students to apply new ideas and study the results over time. 
+ - Providing opportunities and incentives to enhance interdisciplinary research as well as interaction between academic and administrative services – fostering an environment of information exchange and collaboration. 
+ - Securing external funding for endowed chairs aimed at supporting academics with research experience in sustainable development issues. 
+
+Global cooperation (Actions):  
+ - Increasing the number of projects with an international composition to provide services in areas of sustainable development. 
+ - Monitor opportunities for international students regarding services and study programs in sustainability issues. 
+ - Searching for NTUA graduates leading sustainability initiatives at national and international level and connecting them with academic staff and students. 
+ - Promotion of sustainable development issues in industry and at scientific conferences in order for the positive impact of NTUA actions to reach a larger audience. 
+
+### creator_name
+
+NTUA’s Senate Committee for Energy Management & Sustainability
+
+### creator_role
+
+Senate, Committee of professors  
+
+### provider_name
+
+National Technical University of Athens (NTUA) 
+
+### provider_type
+
+University
+
+### contact_name
+
+NTUA Senate for Sustainable Development
+
+### contact_email
+
+info@envio.ntua.gr 
+
+### recommendations
+
+- Describe a variety of actions relevant to teaching, research, sustainable practices, reduction of energy use, etc.
+- Transparency by making the energy consumption data publicly available
+- Would be nice to have more information on the other aspecs of the Roadmap
+

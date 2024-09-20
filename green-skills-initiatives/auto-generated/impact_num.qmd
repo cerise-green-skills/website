@@ -1,0 +1,136 @@
+## Impact'Num
+### Description
+
+Impact'Num is a Mooc to question the environmental impacts of digital technologies, to learn how to measure, decipher and act, to find one's place as a citizen in a digital world.
+At the end of this course, you will be able to:
+ - Understand the challenges of digital technologies for the environment and society
+ - Question indicators, data, analyze trends and make your own diagnosis
+ - Identify possible actions for a sustainable digital world by integrating a reflection on indirect effects, the interplay of actors and scales
+ - To have a critical look at the place of digital technologies in today's world and to be able to understand the debates around these themes
+ - Raise the awareness of your students or friends by using the resources of the Mooc or by identifying tools and partners to continue the debate
+
+### Type of Initiative
+
+Course
+
+### Provider
+
+FUN MOOC 
+
+### Creator
+
+This Mooc was co-produced by the Association Class'Code and Inria.
+
+### description
+
+Impact'Num is a Mooc to question the environmental impacts of digital technologies, to learn how to measure, decipher and act, to find one's place as a citizen in a digital world.
+At the end of this course, you will be able to:
+ - Understand the challenges of digital technologies for the environment and society
+ - Question indicators, data, analyze trends and make your own diagnosis
+ - Identify possible actions for a sustainable digital world by integrating a reflection on indirect effects, the interplay of actors and scales
+ - To have a critical look at the place of digital technologies in today's world and to be able to understand the debates around these themes
+ - Raise the awareness of your students or friends by using the resources of the Mooc or by identifying tools and partners to continue the debate
+
+### language
+
+French, English
+
+### url_initiative
+
+https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/
+
+### resources
+
+ - videos
+ - documents
+ - concept sheets
+ - quizzes
+ - discussion forum
+
+### url_resources
+
+https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/
+
+### target_audience
+
+Students; Teacherss
+
+### type
+
+Course
+
+### thematic_focus
+
+Environmental Education and Awareness; Energy Efficiency; Digital Technologies
+
+### green_skill_specificity_level
+
+Domain-general
+
+### location
+
+Online: https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/
+
+### content
+
+Part 1 - Introduction: The environmental impacts of digital technologies
+- What do you think about digital technologies?
+- Digital technologies and environmental awareness: a short history
+- Which indicators to assess the digital footprint?
+- Eco-Wise: Reading and questioning indicators
+
+Part 2 - Non-renewable equipment
+- How many connected devices do you have?
+- Environmental impact of digital devices
+- Can we continue to manufacture IT equipment for a long time?
+-Eco-consumer: Recycling is not winning!
+
+Part 3 - Very material digital services
+-What part of digital technology has the greatest environmental impact?
+- Are digital services virtual?
+- What is the environmental footprint of a digital service?
+- From eco-user to eco-designer of digital services
+
+Part 4 - Economic and societal impacts
+- Connected objects... and you?
+- What place do we want to give to digital in our society?
+- How to anticipate the impacts of a new technology?
+- Eco-citizen: being well informed to make informed choices!
+
+### duration
+
+5H
+
+### cost
+
+Participant Cost: Free
+
+### start_date
+
+Anytime
+
+### end_date
+
+anytime
+
+### creator_name
+
+This Mooc was co-produced by the Association Class'Code and Inria.
+
+### creator_role
+
+Academic and Research Institution 
+
+### provider_name
+
+FUN MOOC 
+
+### provider_type
+
+ Public Interest Group (GIP)
+
+
+### recommendations
+
+Link between digital and ecological transition
+

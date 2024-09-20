@@ -1,0 +1,42 @@
+
+
+{{< include green-skills-resources/auto-generated/unescos-designated-centre-for-technical-and-vocational-education-and-training-(tvet):-glossary.qmd >}}
+
+{{< include green-skills-resources/auto-generated/ui-greenmetric-world-university-ranking.qmd >}}
+
+{{< include green-skills-resources/auto-generated/esco-green-taxonomy.qmd >}}
+
+{{< include green-skills-resources/auto-generated/cedefop_s-dashboard-for-greenness-and-green-pervasiveness-in-occupations.qmd >}}
+
+{{< include green-skills-resources/auto-generated/times-higher-education-impact-rankings.qmd >}}
+
+{{< include green-skills-resources/auto-generated/cedefop_s-dashboard-for-greenness-and-green-pervasiveness-in-sectors.qmd >}}
+
+{{< include green-skills-resources/auto-generated/ec_s-toolkit-for-green-skills:-a-guide-to-upskilling-and-reskilling-workers-for-the-green-transition.qmd >}}
+
+{{< include green-skills-resources/auto-generated/cedefop_s-dashboard-for-renewable-energy-and-related-occupations.qmd >}}
+
+{{< include green-skills-resources/auto-generated/sustainable-development-observatory.qmd >}}
+
+{{< include green-skills-resources/auto-generated/linkedin_s-global-green-skills-report.qmd >}}
+
+{{< include green-skills-resources/auto-generated/ilo_s-skills-for-a-greener-future-report.qmd >}}
+
+{{< include green-skills-resources/auto-generated/sev--hellenic-federation-of-enterprises:-green-growth-&-sustainable-development.qmd >}}
+
+{{< include green-skills-resources/auto-generated/unescos-designated-centre-for-technical-and-vocational-education-and-training-(tvet):-green-toolkits.qmd >}}
+
+{{< include green-skills-resources/auto-generated/linkedin_s-list-of-green-resources.qmd >}}
+
+{{< include green-skills-resources/auto-generated/earthwatch-education.qmd >}}
+
+{{< include green-skills-resources/auto-generated/cedefop_s-dashboard-for-greenness-and-green-pervasiveness-across-regions.qmd >}}
+
+{{< include green-skills-resources/auto-generated/sustainability-literacy-test-(sulitest).qmd >}}
+
+{{< include green-skills-resources/auto-generated/cedefop_s-green-observatory.qmd >}}
+
+{{< include green-skills-resources/auto-generated/qs-world-university-rankings:-sustainability-2024.qmd >}}
+
+{{< include green-skills-resources/auto-generated/wwf-greece:-environmental-education.qmd >}}
+

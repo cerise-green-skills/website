@@ -1,0 +1,9 @@
+## ESCO Green Taxonomy
+### Description
+
+The ESCO classification identifies and categorises skills, competences, and occupations relevant for the EU labour market and education and training. It systematically shows the relationships between the different concepts.
+
+### Image_url
+
+https://eurofamnet.eu/sites/default/files/agencies/esco.jpg
+

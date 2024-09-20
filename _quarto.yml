@@ -1,0 +1,68 @@
+project:
+  type: website
+
+website:
+  title: ""
+  page-navigation: true
+  navbar:
+    logo: logos/CERISE_round.png
+
+    left:
+      - text: "Home"
+        href: index.qmd
+        
+      - text: "The Project"
+        href: about.qmd
+
+      - text: "Initiatives"
+        href: green-skills-initiatives.qmd
+        
+      - text: "Resources"
+        href: green-skills-resources.qmd
+  
+      - text: "News"
+        href: news.qmd
+
+      - text: "Contribute"
+        href: contribute.qmd
+
+
+  sidebar:
+    - title: "Home"
+      style: "docked"
+      contents:
+        - index.qmd
+
+    - title: "About"
+      contents:
+        - about.qmd        
+
+    - title: "Initiatives"
+      contents:
+        - green-skills-initiatives.qmd
+        - green-skills-initiatives/auto-generated/discovering-careers-in-the-ecological-transition,-creating-jobs.qmd
+        - green-skills-initiatives/auto-generated/edinburgh-futures-institute-(efi)-.qmd
+        - green-skills-initiatives/auto-generated/eu-green.qmd
+        - green-skills-initiatives/auto-generated/european-school-education-platform.qmd
+        - green-skills-initiatives/auto-generated/greenovet.qmd
+        - green-skills-initiatives/auto-generated/impact'num.qmd
+        - green-skills-initiatives/auto-generated/micro-credential-in-sustainability.qmd
+        - green-skills-initiatives/auto-generated/nbs-eduworld.qmd
+        - green-skills-initiatives/auto-generated/sense.qmd
+        - green-skills-initiatives/auto-generated/sky4.0.qmd
+        - green-skills-initiatives/auto-generated/εν-βιω-εμπ.qmd
+
+    - title: "Resources"
+      contents:
+        - green-skills-resources.qmd
+        - green-skills-resources/auto-generated/earthwatch-education.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+

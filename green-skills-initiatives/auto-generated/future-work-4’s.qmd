@@ -1,0 +1,89 @@
+## Future Work 4’s
+### Description
+
+The Future Work 4’s project aims at developing a gamified open online training program (MOOC) for university students and learners on 4 transversal skills that are identified as critical for the workforce in the 21st century: 
+Digital competencies, Green skills and environmental awareness, Entrepreneurship and innovation, Social skills.
+By completing all the activities provided for each course, students can earn a micro-credential certifying the newly acquired competence. 
+
+### Type of Initiative
+
+MOOC
+
+### Provider
+
+Future Work 4's 
+
+### Creator
+
+Sofia University  
+Innovation Hive – Greece
+Czech University of Life Sciences Prague 
+Business Foundation for Education – Bulgaria 
+The team of Link Campus University – Italy 
+
+### description
+
+The Future Work 4’s project aims at developing a gamified open online training program (MOOC) for university students and learners on 4 transversal skills that are identified as critical for the workforce in the 21st century: 
+Digital competencies, Green skills and environmental awareness, Entrepreneurship and innovation, Social skills.
+By completing all the activities provided for each course, students can earn a micro-credential certifying the newly acquired competence. 
+
+### language
+
+English, Italian, Czech, Bulgarian
+
+### url_initiative
+
+https://futurework4s.eu/
+
+### resources
+
+Mooc
+
+### url_resources
+
+https://futurework4s.eu/mooc-platform/
+
+### target_audience
+
+Students
+
+### type
+
+MOOC
+
+### location
+
+Online
+
+### content
+
+1. Green Skills (Gain basic orientation about the conditions of life on the Earth, the human impact on ecosystems and the fundamental global problems of our time);
+2. Digital Skills (Acquire more advanced knowledge and skills in the use of digital technologies and their application to your specific areas of study);
+3. Entrepreneurial Skills (Gain a solid foundation in entrepreneurship and equip yourself with the tools and resources to pursue your entrepreneurial aspirations);
+4. Social and Career Skills (Deepen your knowledge of current labour market trends and develop a wide range of employability skills).
+
+### creator_name
+
+Sofia University  
+Innovation Hive – Greece
+Czech University of Life Sciences Prague 
+Business Foundation for Education – Bulgaria 
+The team of Link Campus University – Italy 
+
+### provider_name
+
+Future Work 4's 
+
+### funded_by
+
+European Union under the Erasmus+ Program, KA220 – Cooperation Partnerships for higher education. Project Number: - 2021-1-BG01 KA220-HED-000089475
+
+### funding_amount
+
+250.000,00 €
+
+### recommendations
+
+4 transversal skills that are identified as critical for the workforce in the 21st century:
+To empower female learners 
+

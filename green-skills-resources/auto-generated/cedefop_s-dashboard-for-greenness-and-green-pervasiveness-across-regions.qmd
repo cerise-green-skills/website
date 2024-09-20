@@ -1,0 +1,9 @@
+## CEDEFOP's dashboard for greenness and green pervasiveness across regions
+### Description
+
+This dashboard presents trends in greenness and pervasiveness across occupations in NUTS II regions for a selected year/quarter. The word cloud displays the top 30 green skills for selected occupations, defined by ESCO v 1.1.1 and augmented by Cedefop.
+
+### Image_url
+
+https://www.cedefop.europa.eu/files/images/logo-skills-online-vacancies.png
+
