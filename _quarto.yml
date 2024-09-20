@@ -27,30 +27,26 @@ website:
         href: contribute.qmd
 
 
-  sidebar:
-    - title: "Home"
-      style: "docked"
-      contents:
-        - index.qmd
+  # sidebar:
+  #   - title: "Home"
+  #     style: "docked"
+  #     contents:
+  #       - index.qmd
 
-    - title: "About"
-      contents:
-        - about.qmd        
+  #   - title: "About"
+  #     contents:
+  #       - about.qmd        
 
-    - title: "Initiatives"
-      contents:
-        - green-skills-initiatives.qmd
+  #   - title: "Initiatives"
+  #     contents:
+  #       - green-skills-initiatives.qmd
 
-    - title: "Resources"
-      contents:
-        - green-skills-resources.qmd
+  #   - title: "Resources"
+  #     contents:
+  #       - green-skills-resources.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
-
+    css: assets/css/styles.css
+    toc: false

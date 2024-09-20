@@ -15,8 +15,6 @@ body {
 
 */
 
-
 .navbar-logo {
-  max-height: 100;
-  height: 50;
+    max-height: 36px;
 }

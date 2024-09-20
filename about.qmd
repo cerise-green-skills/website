@@ -19,5 +19,5 @@ title: "About"
 
 ---
 
-![](logos/1680161519-kl-EN%20Co-funded%20by%20the%20EU_POS.jpg){width=50%}
+![](assets/img/1680161519-kl-EN%20Co-funded%20by%20the%20EU_POS.jpg){width=50%}
 

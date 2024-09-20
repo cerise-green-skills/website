@@ -1,11 +1,14 @@
 ---
 title: Green Skills Resources
 listing: 
-  id: sample-listings
+  id: resources-listing
+  page-size: 100
+  grid-columns: 4
   contents: 
     - green-skills-resources/auto-generated/
   sort: "id desc"
   type: grid
+format: 
+  html:
+    page-layout: full
 ---
-
-

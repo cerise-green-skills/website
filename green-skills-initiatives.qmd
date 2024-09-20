@@ -1,11 +1,14 @@
 ---
 listing: 
-  id: initiatives
+  id: initiatives-listing
   page-size: 100
   contents: 
     - green-skills-initiatives/auto-generated/
   sort: "id desc"
-  type: default
+  type: grid
+format: 
+  html:
+    page-layout: full
 ---
 
 # Green Skills Initiatives
