@@ -4,13 +4,11 @@ project:
 website:
   title: ""
   page-navigation: true
+  favicon: assets/img/CERISE_round.png
   navbar:
-    logo: assets/img/CERISE_round.png
+    logo: assets/img/CERISE_BackgroundTransparent.png
 
     left:
-      - text: "Home"
-        href: index.qmd
-        
       - text: "The Project"
         href: about.qmd
 
@@ -20,11 +18,11 @@ website:
       - text: "Resources"
         href: green-skills-resources.qmd
   
-      - text: "News"
-        href: news.qmd
+#      - text: "News"
+#        href: news.qmd
 
-      - text: "Contribute"
-        href: contribute.qmd
+#      - text: "Contribute"
+#        href: contribute.qmd
 
 
   # sidebar:

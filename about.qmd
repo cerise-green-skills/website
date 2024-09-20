@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "CERISE: Capacity building and technologies for Green skills orientedness at European Universities"
 ---
 
-## Capacity building and technologies for Green skills orientedness at European Universities (CERISE)
 
+
+
+The general objective of the project is strengthening capacity of European Higher Education Institutions (HEIs) in delivering courses and services that enhance and recognize green skills and expand green culture. 
+
+**Specific objective 1:** Support HE curricula development to advance HE students’ green skills and attitudes through digital technologies.  
+
+**Specific objective 2**: Develop a technological tool that will foster the recognition of green skills in the HE sector. 
+
+
+---
 
  - **Project no.**: 2023-2-LU01-KA220-HED-000178778
  - **Project funding:** The European Union programme Erasmus+
