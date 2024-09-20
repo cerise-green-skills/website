@@ -5,7 +5,7 @@ website:
   title: ""
   page-navigation: true
   navbar:
-    logo: logos/CERISE_round.png
+    logo: assets/img/CERISE_round.png
 
     left:
       - text: "Home"
@@ -40,22 +40,10 @@ website:
     - title: "Initiatives"
       contents:
         - green-skills-initiatives.qmd
-        - green-skills-initiatives/auto-generated/discovering-careers-in-the-ecological-transition,-creating-jobs.qmd
-        - green-skills-initiatives/auto-generated/edinburgh-futures-institute-(efi)-.qmd
-        - green-skills-initiatives/auto-generated/eu-green.qmd
-        - green-skills-initiatives/auto-generated/european-school-education-platform.qmd
-        - green-skills-initiatives/auto-generated/greenovet.qmd
-        - green-skills-initiatives/auto-generated/impact'num.qmd
-        - green-skills-initiatives/auto-generated/micro-credential-in-sustainability.qmd
-        - green-skills-initiatives/auto-generated/nbs-eduworld.qmd
-        - green-skills-initiatives/auto-generated/sense.qmd
-        - green-skills-initiatives/auto-generated/sky4.0.qmd
-        - green-skills-initiatives/auto-generated/εν-βιω-εμπ.qmd
 
     - title: "Resources"
       contents:
         - green-skills-resources.qmd
-        - green-skills-resources/auto-generated/earthwatch-education.qmd
 
 format:
   html:

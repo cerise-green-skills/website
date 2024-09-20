@@ -1,0 +1,13 @@
+---
+description: 'Educational material directed to teachers, educators and youth workers
+  that are interested in raising awareness in children and youth on important environmental
+  issues. '
+id: 17
+image_url: https://cdnassets.panda.org/_skins/international/img/logo.png
+link: https://www.wwf.gr/en/knowledge_hub/environmental_education/
+related_countries: GR
+target_domain: Green education
+title: 'WWF-Greece: Environmental Education'
+---
+
+{{< meta description >}}

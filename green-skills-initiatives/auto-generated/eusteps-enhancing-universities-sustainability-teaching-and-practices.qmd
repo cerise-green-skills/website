@@ -1,0 +1,61 @@
+---
+contact_email: gmalandrakis@eled.auth.gr
+content: 'The MOOC allows you to acquire knowledge on the concept of sustainability
+  and the Ecological Footprint, by using examples and contexts from real life. It
+  also helps you to understand what approaches can you make to address the global
+  sustainability issue.
+
+  Topic 1 - Introduction to Ecological Overshoot, Sustainability, and SDGs
+
+  Topic 2 - Connecting your daily life with SDGs
+
+  Topic 3 - Introduction to Ecological Footprint
+
+  Topic 4 - Your Personal Ecological Footprint
+
+  Topic 5 - HEI: Sustainability aspects and assessment tools
+
+  Topic 6 - HEI: Sustainability best practices'
+cost: Free
+creator_name: 'Aristotle University of Thessaloniki, Greece
+
+  University of Aveiro, Portugal
+
+  Universidade Aberta, Portugal
+
+  University of Siena, Italy
+
+  '
+description: 'EUSTEPs aims to educate European university students and the wider academic
+  community about the complexity of sustainability and its interdisciplinary nature
+  in an engaging and captivating manner.
+
+  In addition, its goal is to support the assessment and reduction of the environmental
+  impact of EU Higher Education Institutions (HEIs) through an experiential approach
+  based on an innovative application of the Ecological Footprint. The key outputs
+  of the EUSTEPs project are:
+
+  E-learning Platform & University Footprint Calculator'
+duration: '50 hours overall, corresponding to approximately 7 hours per week.
+
+  '
+id: 2
+image_url: https://ecodynamics.unisi.it/wp-content/uploads/sites/112/2020/02/EUSTEPS-Logo-Official.jpg
+languages: English, Italian, Greek, Portuguese
+partner: UniLu
+provider_name: EUSTEPs
+quote: Because education is key
+resources: Mooc, Teaching material, Footprint calculator
+target_audience: Students, Teachers,Staff
+thematic_focus: "Nature and Environment\nSustainability \nEcological Footprint \n\
+  Higher Education Institutions "
+title: "EUSTEPs (Enhancing Universities\u2019 Sustainability TEaching and Practices)"
+url_initiative: https://www.eusteps.eu/
+url_resources: 'https://www.eusteps.eu/resources/student-educator-teaching-material/
+
+  https://aulaberta.uab.pt/blocks/catalog/detail.php?id=59
+
+  https://eusteps.footprintcalculator.org/'
+---
+
+{{< meta description >}}

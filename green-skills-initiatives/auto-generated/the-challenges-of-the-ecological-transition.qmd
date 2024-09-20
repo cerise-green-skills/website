@@ -1,62 +1,32 @@
-## The challenges of the ecological transition
-### Description
+---
+creator_name: "Sous la direction de\_Jean-Michel Lourtioz,\_Jane Lecomte,\_Sophie\
+  \ Szopa"
+description: "This book provides a cross-sectional view of the global environmental\
+  \ changes affecting our finite planet. In particular, it aims to provide an understanding\
+  \ of the mechanisms and consequences of global warming and the erosion of biodiversity,\
+  \ and how these relate to our lifestyles and consumption patterns.\nIt is based\
+  \ on one of the first large-scale digital courses on the \u2018Challenges of the\
+  \ ecological transition\u2019, which was taught in 2020 to several thousand undergraduate\
+  \ students from all disciplines at the University of Paris-Saclay.\nTo meet the\
+  \ book's cross-disciplinary objective, more than forty teacher-researchers and researchers\
+  \ from different backgrounds have contributed, combining knowledge from the natural\
+  \ sciences, the humanities and social sciences, law, economics, management, agronomy\
+  \ and medicine."
+funded_by: "This work benefited from financial support from the program\n\u201CInvestissement\
+  \ d'Avenir\u201D."
+hei_category: Green skills course
+id: 18
+image_url: https://www.edp-open.org/images/stories/books/covers/9782759826612_Enjeux-Transition-Ecologique.jpg
+languages: French
+partner: UniLu
+provider_name: "Universit\xE9 Paris Saclay"
+quote: Teaching university undergraduates about the ecological transition
+recommendations: 'Make accessible this course to everyone '
+resources: Book
+title: The challenges of the ecological transition
+type: Course
+url_initiative: https://www.edp-open.org/books/edp-open-books/427-enjeux-de-la-transition-ecologique
+url_resources: https://www.edp-open.org/images/stories/books/fulldl/9782759826612_Enjeux-Transition-Ecologique_ebook.pdf
+---
 
-This book provides a cross-sectional view of the global environmental changes affecting our finite planet. In particular, it aims to provide an understanding of the mechanisms and consequences of global warming and the erosion of biodiversity, and how these relate to our lifestyles and consumption patterns.
-It is based on one of the first large-scale digital courses on the âChallenges of the ecological transitionâ, which was taught in 2020 to several thousand undergraduate students from all disciplines at the University of Paris-Saclay.
-To meet the book's cross-disciplinary objective, more than forty teacher-researchers and researchers from different backgrounds have contributed, combining knowledge from the natural sciences, the humanities and social sciences, law, economics, management, agronomy and medicine.
-
-### Type of Initiative
-
-Course
-
-### Provider
-
-UniversitÃ© Paris Saclay
-
-### Creator
-
-Sous la direction deÂ Jean-Michel Lourtioz,Â Jane Lecomte,Â Sophie Szopa
-
-### description
-
-This book provides a cross-sectional view of the global environmental changes affecting our finite planet. In particular, it aims to provide an understanding of the mechanisms and consequences of global warming and the erosion of biodiversity, and how these relate to our lifestyles and consumption patterns.
-It is based on one of the first large-scale digital courses on the âChallenges of the ecological transitionâ, which was taught in 2020 to several thousand undergraduate students from all disciplines at the University of Paris-Saclay.
-To meet the book's cross-disciplinary objective, more than forty teacher-researchers and researchers from different backgrounds have contributed, combining knowledge from the natural sciences, the humanities and social sciences, law, economics, management, agronomy and medicine.
-
-### language
-
-French
-
-### url_initiative
-
-https://www.edp-open.org/books/edp-open-books/427-enjeux-de-la-transition-ecologique
-
-### resources
-
-Book
-
-### url_resources
-
-https://www.edp-open.org/images/stories/books/fulldl/9782759826612_Enjeux-Transition-Ecologique_ebook.pdf
-
-### type
-
-Course
-
-### creator_name
-
-Sous la direction deÂ Jean-Michel Lourtioz,Â Jane Lecomte,Â Sophie Szopa
-
-### provider_name
-
-UniversitÃ© Paris Saclay
-
-### funded_by
-
-This work benefited from financial support from the program
-âInvestissement d'Avenirâ.
-
-### recommendations
-
-Make accessible this course to everyone 
-
+{{< meta description >}}

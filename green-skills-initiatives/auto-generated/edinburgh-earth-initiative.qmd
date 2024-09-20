@@ -1,76 +1,42 @@
-## Edinburgh Earth Initiative
-### Description
+---
+description: "The Edinburgh Earth Initiative is accelerating the University of Edinburgh\u2019\
+  s response to the climate crisis. Working with our academics, students, staff, and\
+  \ partners, we help ensure the University of Edinburgh is at the leading edge of\
+  \ climate research, teaching, innovation and action.\nWe drive resources towards\
+  \ core research on ecosystems, energy futures, and health; we create opportunities\
+  \ to train future leaders through scholarships and fellowships; we help to foster\
+  \ innovations that deliver real-world impacts on climate mitigation and adaptation;\
+  \ we help ensure that climate and environmental is central to our international\
+  \ partnerships; we work to make academic knowledge available to decision makers\
+  \ in business, industry, policymaking institutions, regulatory authorities, and\
+  \ civil society organisations; and we put climate justice at the centre of our institutional\
+  \ commitments. "
+funded_by: The Edinburgh Earth Initiative is funded by the University of Edinburgh
+  and external supporters
+green_skill_specificity_level: Transversal
+id: 15
+image_url: https://earth.ed.ac.uk/wp-content/uploads/2022/09/our-vision-edinburgh-earth-initiative-2.jpg
+languages: English
+location: University of Edinburgh, On-campus and Online
+partner: UITM
+provider_name: University of Edinburgh
+provider_type: University
+quote: A new futures-focused space for learning, research, and innovation at the University
+  of Edinburgh.
+recommendations: "- The\_Mapping Green Infrastructure story map promotes and faciliates\
+  \ outdoor teaching"
+resources: Guidelines, Interactive map
+target_audience: Students, Teacher, Administrative Staff
+thematic_focus: Waste Management, Renewable Energy, Sustainable Transportation, Energy
+  Efficiency, Water Management, Sustainable Agriculture, Biodiversity Conservation,
+  Urban Planning, Green Building, Environmental Education and Awareness, Sustainable
+  Business Practices, Policy and Governance, Community Engagement and Outreach
+title: Edinburgh Earth Initiative
+type: Educational Program
+url_initiative: https://earth.ed.ac.uk/
+url_resources: 'https://earth.ed.ac.uk/nbl-guidelines/
 
-The Edinburgh Earth Initiative is accelerating the University of Edinburghâs response to the climate crisis. Working with our academics, students, staff, and partners, we help ensure the University of Edinburgh is at the leading edge of climate research, teaching, innovation and action.
-We drive resources towards core research on ecosystems, energy futures, and health; we create opportunities to train future leaders through scholarships and fellowships; we help to foster innovations that deliver real-world impacts on climate mitigation and adaptation; we help ensure that climate and environmental is central to our international partnerships; we work to make academic knowledge available to decision makers in business, industry, policymaking institutions, regulatory authorities, and civil society organisations; and we put climate justice at the centre of our institutional commitments. 
+  https://earth.ed.ac.uk/outdoor-learning-sites/'
+---
 
-### Type of Initiative
-
-Educational Program
-
-### Provider
-
-University of Edinburgh
-
-### Creator
-
-nan
-
-### description
-
-The Edinburgh Earth Initiative is accelerating the University of Edinburghâs response to the climate crisis. Working with our academics, students, staff, and partners, we help ensure the University of Edinburgh is at the leading edge of climate research, teaching, innovation and action.
-We drive resources towards core research on ecosystems, energy futures, and health; we create opportunities to train future leaders through scholarships and fellowships; we help to foster innovations that deliver real-world impacts on climate mitigation and adaptation; we help ensure that climate and environmental is central to our international partnerships; we work to make academic knowledge available to decision makers in business, industry, policymaking institutions, regulatory authorities, and civil society organisations; and we put climate justice at the centre of our institutional commitments. 
-
-### language
-
-English
-
-### url_initiative
-
-https://earth.ed.ac.uk/
-
-### resources
-
-Guidelines, Interactive map
-
-### url_resources
-
-https://earth.ed.ac.uk/nbl-guidelines/
-https://earth.ed.ac.uk/outdoor-learning-sites/
-
-### target_audience
-
-Students, Teacher, Administrative Staff
-
-### type
-
-Educational Program
-
-### thematic_focus
-
-Waste Management, Renewable Energy, Sustainable Transportation, Energy Efficiency, Water Management, Sustainable Agriculture, Biodiversity Conservation, Urban Planning, Green Building, Environmental Education and Awareness, Sustainable Business Practices, Policy and Governance, Community Engagement and Outreach
-
-### green_skill_specificity_level
-
-Transversal
-
-### location
-
-University of Edinburgh, On-campus and Online
-
-### provider_name
-
-University of Edinburgh
-
-### provider_type
-
-University
-
-### funded_by
-
-The Edinburgh Earth Initiative is funded by the University of Edinburgh and external supporters
-
-### recommendations
-
-- TheÂ Mapping Green Infrastructure story map promotes and faciliates outdoor teaching
-
+{{< meta description >}}

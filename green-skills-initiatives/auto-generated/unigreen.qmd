@@ -1,81 +1,46 @@
-## UNIgreen
-### Description
+---
+content: "Specific agreements among these institutions facilitate the implementation\
+  \ of mobility actions. A significant outcome combining teaching and innovative,\
+  \ high-level research is the launch of a joint PhD program in Agro-Food Sciences,\
+  \ Technologies, and Biotechnologies starting from the academic year 2024-2025. This\
+  \ PhD program will award the degree from five universities (University of Modena\
+  \ and Reggio Emilia, Almer\xEDa, Coimbra, Plovdiv, and Iceland). Additionally, joint\
+  \ programs for awarding dual or multiple degrees are being planned, which will further\
+  \ open up international opportunities through first and second-level educational\
+  \ paths. These programs will include lectures and seminars in shared virtual classrooms\
+  \ among the Alliance universities, participation in Summer Schools, Blended Intensive\
+  \ Programs (BIPs), and other educational activities that will occur both in-person\
+  \ and remotely in a lifelong learning context."
+creator_name: "University of Modena and Reggio Emilia (Italy)\nUniversity of Almer\xED\
+  a (Spain)\nHaute Ecole de la Province de Li\xE8ge (Belgium)\nWarsaw University of\
+  \ Life Sciences (Poland)\nPolytechnic University of Coimbra (Portugal)\nUniversity\
+  \ of Plovdiv (Bulgaria)\nAgricultural University of Iceland (Iceland)\nSup\u2019\
+  Bioptech Engineering School of Biotechnology (France)"
+description: UNIgreen is an Alliance of eight Higher Education Institutions focusing
+  specifically on sustainable agriculture, green biotechnology, and environmental
+  and life sciences. They are committed to promoting excellence in education, research
+  and innovation, and that are active in developing knowledge and solutions that give
+  an answer to the needs of local communities.
+funded_by: Funded by the European Union.
+hei_category: Other
+id: 12
+image_url: https://unigreen-alliance.eu/wp-content/uploads/2023/09/logo-unigreen@2x.png
+languages: English
+location: unigreen website and universities
+partner: UniLu
+provider_name: Unigreen
+quote: The Green European University
+recommendations: 'The core of the UNIgreen Virtual Campus will be the e-learning platform
+  based on LMS Blackboard. '
+target_audience: Students, Teachers, Staff
+title: UNIgreen
+type: Project
+url_initiative: https://unigreen-alliance.eu/
+url_resources: 'https://unigreen-alliance.eu/education/unigreen-courses/#courses-for-students
 
-UNIgreen is an Alliance of eight Higher Education Institutions focusing specifically on sustainable agriculture, green biotechnology, and environmental and life sciences. They are committed to promoting excellence in education, research and innovation, and that are active in developing knowledge and solutions that give an answer to the needs of local communities.
+  https://unigreen-alliance.eu/virtual-campus/
 
-### Type of Initiative
+  '
+---
 
-Project
-
-### Provider
-
-Unigreen
-
-### Creator
-
-University of Modena and Reggio Emilia (Italy)
-University of AlmerÃ­a (Spain)
-Haute Ecole de la Province de LiÃ¨ge (Belgium)
-Warsaw University of Life Sciences (Poland)
-Polytechnic University of Coimbra (Portugal)
-University of Plovdiv (Bulgaria)
-Agricultural University of Iceland (Iceland)
-SupâBioptech Engineering School of Biotechnology (France)
-
-### description
-
-UNIgreen is an Alliance of eight Higher Education Institutions focusing specifically on sustainable agriculture, green biotechnology, and environmental and life sciences. They are committed to promoting excellence in education, research and innovation, and that are active in developing knowledge and solutions that give an answer to the needs of local communities.
-
-### language
-
-English
-
-### url_initiative
-
-https://unigreen-alliance.eu/
-
-### url_resources
-
-https://unigreen-alliance.eu/education/unigreen-courses/#courses-for-students
-https://unigreen-alliance.eu/virtual-campus/
-
-
-### target_audience
-
-Students, Teachers, Staff
-
-### type
-
-Project
-
-### location
-
-unigreen website and universities
-
-### content
-
-Specific agreements among these institutions facilitate the implementation of mobility actions. A significant outcome combining teaching and innovative, high-level research is the launch of a joint PhD program in Agro-Food Sciences, Technologies, and Biotechnologies starting from the academic year 2024-2025. This PhD program will award the degree from five universities (University of Modena and Reggio Emilia, AlmerÃ­a, Coimbra, Plovdiv, and Iceland). Additionally, joint programs for awarding dual or multiple degrees are being planned, which will further open up international opportunities through first and second-level educational paths. These programs will include lectures and seminars in shared virtual classrooms among the Alliance universities, participation in Summer Schools, Blended Intensive Programs (BIPs), and other educational activities that will occur both in-person and remotely in a lifelong learning context.
-
-### creator_name
-
-University of Modena and Reggio Emilia (Italy)
-University of AlmerÃ­a (Spain)
-Haute Ecole de la Province de LiÃ¨ge (Belgium)
-Warsaw University of Life Sciences (Poland)
-Polytechnic University of Coimbra (Portugal)
-University of Plovdiv (Bulgaria)
-Agricultural University of Iceland (Iceland)
-SupâBioptech Engineering School of Biotechnology (France)
-
-### provider_name
-
-Unigreen
-
-### funded_by
-
-Funded by the European Union.
-
-### recommendations
-
-The core of the UNIgreen Virtual Campus will be the e-learning platform based on LMS Blackboard. 
-
+{{< meta description >}}

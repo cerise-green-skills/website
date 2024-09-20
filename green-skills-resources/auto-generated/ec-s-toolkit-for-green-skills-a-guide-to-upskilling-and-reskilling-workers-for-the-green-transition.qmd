@@ -1,0 +1,12 @@
+---
+description: The aim of this toolkit is to help stakeholders to address the upskilling
+  and reskilling needs of workers in the context of the green economy.
+id: 5
+link: https://euagenda.eu/publications/green-skills-toolkit-a-guide-to-upskilling-and-reskilling-workers-for-the-green-transition
+related_countries: EU countries
+target_domain: Green transition, green skills, green jobs
+title: 'EC''s toolkit for green skills: a guide to upskilling and reskilling workers
+  for the green transition'
+---
+
+{{< meta description >}}

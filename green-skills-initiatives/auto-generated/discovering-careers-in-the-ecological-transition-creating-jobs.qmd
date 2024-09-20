@@ -1,0 +1,52 @@
+---
+content: 'Introduction: Ecological reconversion
+
+  Week 1: Definition, general dynamics and attractiveness of jobs in the Ecological
+  Transition
+
+  Week 2: Discovering careers and training by sector of activity
+
+  Week 3: Examples of collaborative, multi-disciplinary projects linked to the Ecological
+  Transition.'
+cost: Free
+description: This MOOC aims to offer an overview of careers in the ecological transition
+  through testimonials from professionals and their associated training pathways.
+  Its goal is to provide a better understanding of the highly diverse fields, the
+  various careers that the ecological transition encompasses, and the different training
+  paths to access them, with the ambition of helping students better orient themselves.
+duration: 'Duration: 4 weeks
+
+  Effort: 8 hours
+
+  Pace: 2 hours/week'
+end_date: The 5th session ended on June 30, 2024
+funded_by: "The French government as part of the \u201CTerritoires d'innovation p\xE9\
+  dagogique\u201D program, operated by Caisse des D\xE9p\xF4ts."
+green_skill_specificity_level: 'Transversal, Domain specific '
+hei_category: Labor Market
+id: 19
+image_url: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/cf/c1/cfc1f0ba-b0af-40aa-8e8b-4d95a84f9d9b/uved34011session01.png__800x457_q85_crop_replace_alpha-%23FFFFFF_subsampling-2_upscale.jpg
+impact: '27490 registred particpants in total (since 2020) '
+languages: French
+location: MOOC (FUN Mooc) + once the sessions have ended, outside the MOOC context
+  and independently of a platform, all the videos are freely available (UVED)
+partner: UL
+provider_name: 'UVED (Environment and Sustainable Development Virtual University) '
+provider_type: Fondation
+quote: Get involved in one of the meaningful jobs in the Ecological Transition!
+recommendations: '- testimonials from professionals
+
+  - provide guidance for career choices'
+resources: 46 videos / Course sheet
+target_audience: Students
+thematic_focus: Sustainable business practice, Vocational guidance
+title: Discovering careers in the Ecological Transition, creating jobs
+type: MOOC
+url_initiative: https://www.uved.fr/mooc-metiers-te
+url_resources: 'https://www.uved.fr/fiche/parcours/les-metiers-de-la-transition-ecologique-creatrice-demplois/1/approfondi#sequence
+
+
+  https://www.uved.fr/fileadmin/user_upload/Documents/pdf/Fiche-MOOC_MetiersTE-3.pdf'
+---
+
+{{< meta description >}}

@@ -1,0 +1,43 @@
+---
+content: "1. Green Skills (Gain basic orientation about the conditions of\_life on\
+  \ the Earth, the\_human impact on ecosystems\_and the fundamental\_global problems\_\
+  of our time);\n2. Digital Skills (Acquire more\_advanced knowledge and skills\_\
+  in the use of\_digital technologies\_and their application to\_your specific areas\
+  \ of study);\n3. Entrepreneurial Skills (Gain a\_solid foundation in entrepreneurship\_\
+  and equip yourself with the\_tools and resources\_to pursue your entrepreneurial\
+  \ aspirations);\n4. Social and Career Skills (Deepen your knowledge of\_current\
+  \ labour market trends\_and develop a wide range of employability skills)."
+creator_name: "Sofia University  \nInnovation Hive \u2013 Greece\nCzech University\
+  \ of Life Sciences Prague \nBusiness Foundation for Education \u2013 Bulgaria \n\
+  The team of Link Campus University \u2013 Italy "
+description: "The Future Work 4\u2019s project aims at developing a gamified open\
+  \ online training program (MOOC) for university students and learners on 4 transversal\
+  \ skills that are identified as critical for the workforce in the 21st century:\
+  \ \nDigital competencies, Green skills and environmental awareness, Entrepreneurship\
+  \ and innovation, Social skills.\nBy completing all the activities provided for\
+  \ each course, students can earn a micro-credential certifying the newly acquired\
+  \ competence. "
+funded_by: "European Union under the Erasmus+ Program, KA220 \u2013 Cooperation Partnerships\
+  \ for higher education. Project Number: - 2021-1-BG01 KA220-HED-000089475"
+funding_amount: "250.000,00 \u20AC"
+id: 3
+image_url: https://futurework4s.eu/wp-content/uploads/2023/06/cropped-cropped-Work4_s_LOGO_Color-NoBG-Resized.png
+languages: English, Italian, Czech, Bulgarian
+location: Online
+partner: UniLu
+provider_name: 'Future Work 4''s '
+quote: We will equip students with 4 key skills for the future - digital, green, entrepreneurial
+  and social
+recommendations: '4 transversal skills that are identified as critical for the workforce
+  in the 21st century:
+
+  To empower female learners '
+resources: Mooc
+target_audience: Students
+title: "Future Work 4\u2019s"
+type: MOOC
+url_initiative: https://futurework4s.eu/
+url_resources: https://futurework4s.eu/mooc-platform/
+---
+
+{{< meta description >}}

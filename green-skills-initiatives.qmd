@@ -1,7 +1,14 @@
+---
+listing: 
+  id: initiatives
+  page-size: 100
+  contents: 
+    - green-skills-initiatives/auto-generated/
+  sort: "id desc"
+  type: default
+---
 
 # Green Skills Initiatives
 
-By creating a repository for green skills initiatives in higher education institutions (HEIs) we aim to systematize and share information. Using a standardized data schema (or template) can help make the data easily understandable and accessible. The availability of such well-structured data may help other institutions adopt green skills initiatives and improve on them (instead of reinventing the wheel). This data may also serve data analytic projects aiming to compare and track different types of green skills initiatives. 
-
-
+By creating a repository for green skills initiatives in higher education institutions (HEIs) we aim to systematize and share information. Using a standardized data schema (or template) can help make the data easily understandable and accessible. The availability of such well-structured data may help other institutions adopt green skills initiatives and improve on them (instead of reinventing the wheel). This data may also serve data analytic projects aiming to compare and track different types of green skills initiatives.
 

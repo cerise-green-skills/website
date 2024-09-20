@@ -1,0 +1,11 @@
+---
+title: Green Skills Resources
+listing: 
+  id: sample-listings
+  contents: 
+    - green-skills-resources/auto-generated/
+  sort: "id desc"
+  type: grid
+---
+
+

@@ -1,0 +1,13 @@
+---
+description: 'Discover which of the world''s universities are leading the way in social
+  and environmental sustainability with the QS World University Rankings: Sustainability
+  2024.'
+id: 1
+image_url: https://www.topuniversities.com/sites/default/files/styles/ranking_header_250x217/public/ranking_set_release/4174/WUR23-MAR%2067494%20sust%202024_TUhomepage-%20desktop%20global%20mba.png.webp
+link: https://www.topuniversities.com/sustainability-rankings
+related_countries: Global
+target_domain: University rankings
+title: 'QS World University Rankings: Sustainability 2024'
+---
+
+{{< meta description >}}

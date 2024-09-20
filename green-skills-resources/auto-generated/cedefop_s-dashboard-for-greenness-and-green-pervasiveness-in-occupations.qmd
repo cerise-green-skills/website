@@ -1,9 +1,0 @@
-## CEDEFOP's dashboard for greenness and green pervasiveness in occupations
-### Description
-
-This dashboard shows trends in greenness and green pervasiveness  over time and within selected occupations for a chosen year/quarter. The word cloud displays the top 50 green skills for the selected occupations, defined by ESCO v 1.1.1 and augmented by Cedefop.
-
-### Image_url
-
-https://www.cedefop.europa.eu/files/images/logo-skills-online-vacancies.png
-

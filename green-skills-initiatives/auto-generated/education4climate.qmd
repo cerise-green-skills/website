@@ -1,60 +1,35 @@
-## Education4Climate
-### Description
+---
+contact_email: contact@education4climate.org
+content: 'Find a programme
 
-Education4Climate aims at promoting education about climate and environmental sustainability in universities and higher education schools. Its target is to facilitate the access to information on the curricula and courses that address these subjects, make data driven analysis of the education offering. The Education4Climate website enables you to find courses, and curricula that cover climate and environmental sustainability, as well as the professors who teach these subjects, in Belgium. The Education4Climate website relies on an automated algorithm that analyses the content of the pages of the courses published on the universitiesâs websites, to identify those covering climate and environmental sustainability.
+  Find a course
 
-### Type of Initiative
+  Find a teacher
 
-nan
+  Wizard'
+creator_name: Education4Climate is driven by a team of volunteers from The Shifters
+  Belgium, with the mentoring of the SDSN Belgium, The Shift and The Shift Project.
+description: "Education4Climate aims at promoting education about climate and environmental\
+  \ sustainability in universities and higher education schools. Its target is to\
+  \ facilitate the access to information on the curricula and courses that address\
+  \ these subjects, make data driven analysis of the education offering. The Education4Climate\
+  \ website enables you to find courses, and curricula that cover climate and environmental\
+  \ sustainability, as well as the professors who teach these subjects, in Belgium.\
+  \ The Education4Climate website relies on an automated algorithm that analyses the\
+  \ content of the pages of the courses published on the universities\u2019s websites,\
+  \ to identify those covering climate and environmental sustainability."
+id: 20
+image_url: https://education4climate.be/img/ogimage.png
+languages: English, French, Dutch
+location: Website
+partner: UniLu
+quote: Where to study to contribute to the carbon transition and have an impact on
+  the climate?
+resources: Find a programme
+target_audience: Students
+title: Education4Climate
+url_initiative: https://education4climate.be/index.html?lang=fr
+url_resources: https://education4climate.be/programs.html?lang=fr
+---
 
-### Provider
-
-nan
-
-### Creator
-
-Education4Climate is driven by a team of volunteers from The Shifters Belgium, with the mentoring of the SDSN Belgium, The Shift and The Shift Project.
-
-### description
-
-Education4Climate aims at promoting education about climate and environmental sustainability in universities and higher education schools. Its target is to facilitate the access to information on the curricula and courses that address these subjects, make data driven analysis of the education offering. The Education4Climate website enables you to find courses, and curricula that cover climate and environmental sustainability, as well as the professors who teach these subjects, in Belgium. The Education4Climate website relies on an automated algorithm that analyses the content of the pages of the courses published on the universitiesâs websites, to identify those covering climate and environmental sustainability.
-
-### language
-
-English, French, Dutch
-
-### url_initiative
-
-https://education4climate.be/index.html?lang=fr
-
-### resources
-
-Find a programme
-
-### url_resources
-
-https://education4climate.be/programs.html?lang=fr
-
-### target_audience
-
-Students
-
-### location
-
-Website
-
-### content
-
-Find a programme
-Find a course
-Find a teacher
-Wizard
-
-### creator_name
-
-Education4Climate is driven by a team of volunteers from The Shifters Belgium, with the mentoring of the SDSN Belgium, The Shift and The Shift Project.
-
-### contact_email
-
-contact@education4climate.org
-
+{{< meta description >}}

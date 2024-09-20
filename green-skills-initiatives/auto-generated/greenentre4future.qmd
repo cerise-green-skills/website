@@ -1,103 +1,56 @@
-## Greenentre4future
-### Description
+---
+content: 'Unit 1. Green management
 
-The GreenEntre4Future project aims to involve and train Youth Workers through the following objectives:
-Define sustainable development approaches;
-Develop and share tools to empower youth;
-Train youth workers;
-To promote initiatives for the European climate legislation;
-To create synergy among stakeholders.
-They propose a MOOC (Massive Open Online Course) to lead youth in green market to seize job opportunities and to create synergies and collaboration in green sector.
+  Unit 2. Digital marketing
 
-### Type of Initiative
+  Unit 3. Legal literacy
 
-MOOC
+  Unit 4: Financial literacy
 
-### Provider
-
-Greenentre4future
-
-### Creator
-
-ï Cross Culture International Foundation Cyprus, Pafos (Cyprus) â parceiro
-Coordenador
-ï Infinitivity Design Labs, Laussone (France)
-ï Petit Pas, Trani (Italy)
-ï UniÃ£o das Freguesias de Gondomar (S. Cosme), Valbom e Jovim (Portugal)
-ï Lidi Smart Solutions, The Hague, (Holanda)
-
-### description
-
-The GreenEntre4Future project aims to involve and train Youth Workers through the following objectives:
-Define sustainable development approaches;
-Develop and share tools to empower youth;
-Train youth workers;
-To promote initiatives for the European climate legislation;
-To create synergy among stakeholders.
-They propose a MOOC (Massive Open Online Course) to lead youth in green market to seize job opportunities and to create synergies and collaboration in green sector.
-
-### language
-
-English, Portuguese, Italian, Greek, French, Dutch
-
-### url_initiative
-
-http://www.greenentre4future.eu/
-
-### resources
-
-Mooc
-
-### url_resources
-
-https://mooc.greenentre4future.eu/
-
-### target_audience
-
-The project is addressed at strengthening and validating competences of youth, future start uppers, young entrepreneurs, NEET, youth workers, trainers, experts, educators, staff, stakeholders (policymakers, green businesses, consumers) for environmental change, support investments and related growth.
-
-### type
-
-MOOC
-
-### location
-
-Online
-
-### content
-
-Unit 1. Green management
-Unit 2. Digital marketing
-Unit 3. Legal literacy
-Unit 4: Financial literacy
-Unit 5: Communication
+  Unit 5: Communication
 
 
 
 
+  '
+cost: Free
+creator_name: "\uF0D8 Cross Culture International Foundation Cyprus, Pafos (Cyprus)\
+  \ \u2013 parceiro\nCoordenador\n\uF0D8 Infinitivity Design Labs, Laussone (France)\n\
+  \uF0D8 Petit Pas, Trani (Italy)\n\uF0D8 Uni\xE3o das Freguesias de Gondomar (S.\
+  \ Cosme), Valbom e Jovim (Portugal)\n\uF0D8 Lidi Smart Solutions, The Hague, (Holanda)"
+description: 'The GreenEntre4Future project aims to involve and train Youth Workers
+  through the following objectives:
 
-### cost
+  Define sustainable development approaches;
 
-Free
+  Develop and share tools to empower youth;
 
-### creator_name
+  Train youth workers;
 
-ï Cross Culture International Foundation Cyprus, Pafos (Cyprus) â parceiro
-Coordenador
-ï Infinitivity Design Labs, Laussone (France)
-ï Petit Pas, Trani (Italy)
-ï UniÃ£o das Freguesias de Gondomar (S. Cosme), Valbom e Jovim (Portugal)
-ï Lidi Smart Solutions, The Hague, (Holanda)
+  To promote initiatives for the European climate legislation;
 
-### provider_name
+  To create synergy among stakeholders.
 
-Greenentre4future
+  They propose a MOOC (Massive Open Online Course) to lead youth in green market to
+  seize job opportunities and to create synergies and collaboration in green sector.'
+funded_by: "Erasmus+ Programme \u2013 Strategic Partnership - Project Nr: 2021-1-CY02-KA220-YOU-000029171"
+id: 5
+image_url: https://mooc.greenentre4future.eu/wp-content/uploads/2023/02/logo-png.png
+languages: English, Portuguese, Italian, Greek, French, Dutch
+location: Online
+partner: UniLu
+provider_name: Greenentre4future
+quote: "Green Entrepreneurship for the Future for Youth \n"
+recommendations: Entrepreneurship
+resources: Mooc
+target_audience: The project is addressed at strengthening and validating competences
+  of youth, future start uppers, young entrepreneurs, NEET, youth workers, trainers,
+  experts, educators, staff, stakeholders (policymakers, green businesses, consumers)
+  for environmental change, support investments and related growth.
+title: Greenentre4future
+type: MOOC
+url_initiative: http://www.greenentre4future.eu/
+url_resources: https://mooc.greenentre4future.eu/
+---
 
-### funded_by
-
-Erasmus+ Programme â Strategic Partnership - Project Nr: 2021-1-CY02-KA220-YOU-000029171
-
-### recommendations
-
-Entrepreneurship
-
+{{< meta description >}}

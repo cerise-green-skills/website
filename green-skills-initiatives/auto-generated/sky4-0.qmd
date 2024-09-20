@@ -1,0 +1,65 @@
+---
+contact_name: https://sky-project.eu/en/team/
+content: 'Introduction to our courses: Our Approach
+
+  How to develop and improve INTELLECTUAL CURIOSITY for aerospace industry 4.0
+
+  How to develop and improve INITIATIVE for aerospace industry 4.0
+
+  How to develop and improve COGNITIVE FLEXIBILITY for aerospace industry 4.0
+
+  How to develop and improve CRITICAL THINKING for aerospace industry 4.0
+
+  How to develop and improve CHANGE ADAPTABILITY for aerospace industry 4.0
+
+  How to develop and improve ANALITYCAL THINKING for aerospace industry 4.0
+
+
+  '
+cost: "Free of charge \n"
+creator_name: "INOVA+ - INNOVATION SERVICES, SA (Portugal) \nAviation Valley Association\
+  \ (Poland) \nQSR - Talent Driven Culture (Portugal)\nINNpuls Sp. z o.o. - (Poland)\n\
+  Aerospace Cluster Association (Turkey)\nThe Machine Tool Institute (Spain)\nThe\
+  \ Technical University of Madrid (Spain) "
+creator_role: Consortium
+description: The present project aim is to build curricula and training modules around
+  two specific sets of soft skills development, namely Social Competencies, Character-Building
+  Skills and Personal Development skills, which should provide a base to make relevant
+  positive choices and decisions leading to level-headedness and wholeheartedness
+  workers.
+duration: "project duration: 01/12/2018 - 31/08/2021 (33 months) \n\ncourses duration:\
+  \ according to the participant pace (approx. 16 hours each training in-class module) "
+funded_by: European Commission under the Erasmus+ Programme, Cooperation for innovation
+  and the exchange of good practices, Strategic Partnerships for vocational education
+  and training. (2018-1-PL01-KA202-051081)
+funding_amount: "362 183,00 \u20AC"
+green_skill_specificity_level: Domain-specific
+hei_category: Labor market
+id: 11
+image_url: https://sky-project.eu/wp-content/uploads/2019/05/sky-40-logo-06.png
+languages: English
+location: https://sky-project.eu/en/resources/
+partner: UITM
+provider_name: Sky4.0
+quote: 'Soft Skills 4.0 for New Challenges in the European Aerospace Industry '
+recommendations: "The resources and courses are designed for a company\u2019s needs\
+  \ (max. 16 hour course) in order to be better prepared for Industry 4.0 by improving\
+  \ the soft skills of their human resources; the exercises are simple and diverse,\
+  \ depending on the skill; although some content is related to aerospace workplace,\
+  \ the majority of content is suitable for transversal skills development for any\
+  \ study area; there are also materials (lessons) for secondary/VET students (targeting\
+  \ Z-generation); for effective and reliable studies of the chosen skills \u2013\
+  \ there are practical guidelines for trainers/coaches with more in-depth approach\
+  \ and time availability."
+resources: 'Curricula for trainers/work, text books for students/workers and implementation
+  guidelines for education and companies. online materials, textbooks, Moodle Platform '
+target_audience: Students in aerospace industry
+thematic_focus: Sustainable Transportation, Energy Efficiency, Sustainable Business
+  Practices.
+title: Sky4.0
+type: Educational Program, course, Course, Workshop
+url_initiative: https://sky-project.eu/en/
+url_resources: https://sky-project.eu/en/resources/
+---
+
+{{< meta description >}}

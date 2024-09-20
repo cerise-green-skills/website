@@ -1,0 +1,22 @@
+---
+description: "Sustainability Literacy Test (Sulitest) was created in France after\
+  \ the United Nations Conference on Sustainable Development (Cop21) and designed\
+  \ to contribute to the Sustainable Development Goals. Sulitest is designed as an\
+  \ initial platform to foster the mission to, \u201Csupport expanded sustainability\
+  \ knowledge, skills and mindset that motivate individuals to become deeply committed\
+  \ to building a sustainable future and to making informed and effective decisions\u201D\
+  . The Sulitest initiative benefits from the support of a wide range of United Nations\
+  \ entities, renowned national and international academic institutions, and the trust\
+  \ of hundreds of contributors around the world. Sulitest was recognized in 2016\
+  \ as one of the first featured initiatives of the UN Partnerships for Sustainable\
+  \ Development Goals, and in 2017 as a contributor to the review of the 2030 Agenda\
+  \ through the High-level Political Forum on Sustainable Development."
+id: 6
+image_url: https://cdn.prod.website-files.com/65280e69dc36aa08d8c6a40e/65280e69dc36aa08d8c6a43b_logo-sulitest-certification-developpement-durable.svg
+link: https://www.sulitest.org/
+related_countries: Global
+target_domain: Green education
+title: Sustainability Literacy Test (Sulitest)
+---
+
+{{< meta description >}}

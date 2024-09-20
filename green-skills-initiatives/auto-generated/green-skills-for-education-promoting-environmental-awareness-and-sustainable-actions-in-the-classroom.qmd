@@ -1,0 +1,45 @@
+---
+contact_email: info@erasmuslearningacademy.eu
+content: "e.g., \n- Introduction to the pyramid of green skills\n- Teaching hard green\
+  \ skills in the classroom: the Agenda 2030 and SDGs\n- Taking action: creating your\
+  \ green action plans at the personal and classrom/school levels..."
+cost: 'Depends on the location (From 1225 to 1405 EUR)
+
+  Erasmus Grant possible'
+description: This training course allows participants to get a deeper insight and
+  sharing of the role teachers and education can play in promoting a green skill set
+  and a learning environment responsive to the most topical global challenges. Participants
+  will learn and practice tools and strategies to model conscious behaviors, promote
+  dialogue and debate among students on climate change, plan lessons around sustainable
+  development goals. The general aim of this course is to equip teachers and education
+  staff with formal, informal and non-formal tools to become active players in the
+  green transition, developing students green skills and promoting a behavioral change
+  in favor of a true commitment to sustainable development goals.
+duration: 1 week
+funded_by: European Union
+green_skill_specificity_level: Transversal
+hei_category: Green skills courses
+id: 7
+image_url: https://www.erasmustrainingcourses.com/uploads/6/5/6/3/65630323/editor/logoelatextblue.png?1616195789
+languages: English
+location: Physical location (Bologna, Tenerife, Palermo, Porto, Thessaloniki)
+partner: UL
+provider_name: Erasmus Learning Academy (ELA)
+provider_type: 'Teacher Training centre '
+quote: Learn the best tools and methods to talk about environmmental awareness and
+  promote sustainable actions in the classroom.
+recommendations: '- Provide teachers tools for promotting green skills
+
+  - Although adaptable to different teaching levels, more appropriate for primary
+  and secondary education?'
+resources: Course sheet
+target_audience: Teachers
+thematic_focus: Environmental Education and Awareness
+title: 'Green skills for education: promoting environmental awareness and sustainable
+  actions in the classroom.'
+type: Training
+url_initiative: https://www.erasmustrainingcourses.com/green-skills.html
+url_resources: 'https://drive.google.com/file/d/1_ZLF6CGx9GDoiO-bQJrKnfJJdv7jAt96/view  '
+---
+
+{{< meta description >}}

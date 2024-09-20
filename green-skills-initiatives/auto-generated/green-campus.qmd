@@ -1,77 +1,49 @@
-## Green Campus
-### Description
+---
+content: 'The online course is targeted at university professors and campus managers,
+  dedicated to raising awareness of the need of these strategies and to provide a
+  basis of knowledge to encourage their implementation in different universities.
+  Comprising six modules covering various related topics in:
 
-The main objective of this project is to support the promotion of sustainable and healthy lifestyles for university campuses and their stakeholders.
-By providing awareness, guidance, and support to the young new leaders of sport, we aspire them to be part of the necessary change to promote sustainability and healthy habits.
+  Module 1. Introduction to Green Campus
 
-### Type of Initiative
+  Module 2. Glossary to Green Campus
 
-nan
+  Module 3. Physical Activity, Sport and Sustainability
 
-### Provider
+  Module 4. Sustainability and Innovation
 
-SportAcademy
+  Module 5. Sustainable and effective communication for Green Campus
 
-### Creator
+  Module 6. The Green Campus Label
 
-European Network of Academic Sports Services (BEL) in
-partnership with Sport Evolution Alliance (POR), European Network for Innovation and Knowledge (NLD),
-International University Sports Federation (CHE),
-Universidad Pablo DâOlavide (ESP) and CuiCui (ESP).
+  Final Assignment: Build your own Green Campus Good Practice'
+creator_name: "European Network of Academic Sports Services (BEL) in\npartnership\
+  \ with Sport Evolution Alliance (POR), European Network for Innovation and Knowledge\
+  \ (NLD),\nInternational University Sports Federation (CHE),\nUniversidad Pablo D\u2019\
+  Olavide (ESP) and CuiCui (ESP)."
+description: 'The main objective of this project is to support the promotion of sustainable
+  and healthy lifestyles for university campuses and their stakeholders.
 
-### description
+  By providing awareness, guidance, and support to the young new leaders of sport,
+  we aspire them to be part of the necessary change to promote sustainability and
+  healthy habits.'
+funded_by: 'Erasmus+ Sport Project, funded
 
-The main objective of this project is to support the promotion of sustainable and healthy lifestyles for university campuses and their stakeholders.
-By providing awareness, guidance, and support to the young new leaders of sport, we aspire them to be part of the necessary change to promote sustainability and healthy habits.
+  by the European Union'
+id: 4
+image_url: https://i0.wp.com/www.greencampusproject.eu/wp-content/uploads/2023/03/Logo_GreenCampus_site.png?fit=1000%2C559&ssl=1
+languages: English
+partner: UniLu
+provider_name: SportAcademy
+quote: Green Strategies for Healthy Lifestyle promotion at Campus
+recommendations: There is an app with best practices and a questionnaire to evaluate
+  your university (green campus management - physical activity and sport - nature,
+  environemnt and sustainability)
+resources: Courses
+target_audience: Teachers, Other
+title: Green Campus
+url_initiative: https://www.greencampusproject.eu/
+url_resources: https://sportacademy.app/courses/green-campus/
+---
 
-### language
-
-English
-
-### url_initiative
-
-https://www.greencampusproject.eu/
-
-### resources
-
-Courses
-
-### url_resources
-
-https://sportacademy.app/courses/green-campus/
-
-### target_audience
-
-Teachers, Other
-
-### content
-
-The online course is targeted at university professors and campus managers, dedicated to raising awareness of the need of these strategies and to provide a basis of knowledge to encourage their implementation in different universities. Comprising six modules covering various related topics in:
-Module 1. Introduction to Green Campus
-Module 2. Glossary to Green Campus
-Module 3. Physical Activity, Sport and Sustainability
-Module 4. Sustainability and Innovation
-Module 5. Sustainable and effective communication for Green Campus
-Module 6. The Green Campus Label
-Final Assignment: Build your own Green Campus Good Practice
-
-### creator_name
-
-European Network of Academic Sports Services (BEL) in
-partnership with Sport Evolution Alliance (POR), European Network for Innovation and Knowledge (NLD),
-International University Sports Federation (CHE),
-Universidad Pablo DâOlavide (ESP) and CuiCui (ESP).
-
-### provider_name
-
-SportAcademy
-
-### funded_by
-
-Erasmus+ Sport Project, funded
-by the European Union
-
-### recommendations
-
-There is an app with best practices and a questionnaire to evaluate your university (green campus management - physical activity and sport - nature, environemnt and sustainability)
-
+{{< meta description >}}

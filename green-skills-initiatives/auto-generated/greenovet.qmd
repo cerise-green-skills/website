@@ -1,71 +1,40 @@
-## GREENOVET
-### Description
+---
+content: One objectives is to foster the employability and entrepreneurial readiness
+  of VET students, preparing and connecting them to the labour market.
+creator_name: "Austria (Styria): FH Joanneum Gesellschaft mbH, Technische Universit\xE4\
+  t Graz, 3s Unternehmensberatung GmbH, Green Tech Valley Cluster GmbH, HTBLuVA Graz-G\xF6\
+  sting, Wirtschaftskammer Steiermark\nFinland (Vaasa): VAASAN YLIOPISTO, VAMIA, Oy\
+  \ Merinova Ab, Ab Yrkesh\xF6gsskolan vid \xC5bo Akademi \u2013 Novia\nPortugal (Leiria):\
+  \ Instituto Polit\xE9cnico de Leiria, Pombal Prof \u2013 Sociedade de Educa\xE7\xE3\
+  o e Ensino Profissional S.A., NERLEI - Associa\xE7\xE3o Empresarial da Regi\xE3\
+  o de Leiria\nNorth Macedonia (Skopje): Zdruzenie Nacionalen centar za razvoj na\
+  \ inovacii i pretpriemacko ucenje Skopje, Ss. CYRIL AND METHODIUS UNIVERSITY IN\
+  \ SKOPJE, ASUC Boro Petrushevski, RADE KONCAR - TEP DOOEL Skopje, Macedonian Chambers\
+  \ of Commerce"
+creator_role: Consortium
+description: GREENOVET is an international project that fosters the development of
+  Vocational Education and Training (VET) Excellence in Green Innovation across Europe
+  by establishing Centres of Vocational Excellence (CoVEs). These CoVEs enable an
+  innovative, inclusive, and sustainable economy. They focus the knowledge, resources,
+  and infrastructures of key stakeholders on developing innovation and skills ecosystems,
+  contributing to regional development, and promoting environmental, social, and economic
+  growth in Europe through green and sustainable innovation processes enabled by VET
+  Excellence.
+funded_by: European Partners and co-funded by Erasmus+ Programme of the European Union
+hei_category: Labor Market
+id: 6
+image_url: https://www.greenovet.eu/site/imagens/logo_3.png
+languages: English, German, Finnish, Macedonian, Portuguese, Swedish
+location: 'Styria (Austria), Vaasa (Finland), Skopje (North Macedonia), Leiria (Portugal)
+  and online platform '
+partner: KTU
+provider_name: GREENOVET
+quote: A sustainable future with green innovation
+recommendations: '- No provided ressources on the website'
+target_audience: Students, Teachers
+title: GREENOVET
+type: Project
+url_initiative: https://www.greenovet.eu/
+---
 
-GREENOVET is an international project that fosters the development of Vocational Education and Training (VET) Excellence in Green Innovation across Europe by establishing Centres of Vocational Excellence (CoVEs). These CoVEs enable an innovative, inclusive, and sustainable economy. They focus the knowledge, resources, and infrastructures of key stakeholders on developing innovation and skills ecosystems, contributing to regional development, and promoting environmental, social, and economic growth in Europe through green and sustainable innovation processes enabled by VET Excellence.
-
-### Type of Initiative
-
-Project
-
-### Provider
-
-GREENOVET
-
-### Creator
-
-Austria (Styria): FH Joanneum Gesellschaft mbH, Technische UniversitÃ¤t Graz, 3s Unternehmensberatung GmbH, Green Tech Valley Cluster GmbH, HTBLuVA Graz-GÃ¶sting, Wirtschaftskammer Steiermark
-Finland (Vaasa): VAASAN YLIOPISTO, VAMIA, Oy Merinova Ab, Ab YrkeshÃ¶gsskolan vid Ãbo Akademi â Novia
-Portugal (Leiria): Instituto PolitÃ©cnico de Leiria, Pombal Prof â Sociedade de EducaÃ§Ã£o e Ensino Profissional S.A., NERLEI - AssociaÃ§Ã£o Empresarial da RegiÃ£o de Leiria
-North Macedonia (Skopje): Zdruzenie Nacionalen centar za razvoj na inovacii i pretpriemacko ucenje Skopje, Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE, ASUC Boro Petrushevski, RADE KONCAR - TEP DOOEL Skopje, Macedonian Chambers of Commerce
-
-### description
-
-GREENOVET is an international project that fosters the development of Vocational Education and Training (VET) Excellence in Green Innovation across Europe by establishing Centres of Vocational Excellence (CoVEs). These CoVEs enable an innovative, inclusive, and sustainable economy. They focus the knowledge, resources, and infrastructures of key stakeholders on developing innovation and skills ecosystems, contributing to regional development, and promoting environmental, social, and economic growth in Europe through green and sustainable innovation processes enabled by VET Excellence.
-
-### language
-
-English, German, Finnish, Macedonian, Portuguese, Swedish
-
-### url_initiative
-
-https://www.greenovet.eu/
-
-### target_audience
-
-Students, Teachers
-
-### type
-
-Project
-
-### location
-
-Styria (Austria), Vaasa (Finland), Skopje (North Macedonia), Leiria (Portugal) and online platform 
-
-### content
-
-One objectives is to foster the employability and entrepreneurial readiness of VET students, preparing and connecting them to the labour market.
-
-### creator_name
-
-Austria (Styria): FH Joanneum Gesellschaft mbH, Technische UniversitÃ¤t Graz, 3s Unternehmensberatung GmbH, Green Tech Valley Cluster GmbH, HTBLuVA Graz-GÃ¶sting, Wirtschaftskammer Steiermark
-Finland (Vaasa): VAASAN YLIOPISTO, VAMIA, Oy Merinova Ab, Ab YrkeshÃ¶gsskolan vid Ãbo Akademi â Novia
-Portugal (Leiria): Instituto PolitÃ©cnico de Leiria, Pombal Prof â Sociedade de EducaÃ§Ã£o e Ensino Profissional S.A., NERLEI - AssociaÃ§Ã£o Empresarial da RegiÃ£o de Leiria
-North Macedonia (Skopje): Zdruzenie Nacionalen centar za razvoj na inovacii i pretpriemacko ucenje Skopje, Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE, ASUC Boro Petrushevski, RADE KONCAR - TEP DOOEL Skopje, Macedonian Chambers of Commerce
-
-### creator_role
-
-Consortium
-
-### provider_name
-
-GREENOVET
-
-### funded_by
-
-European Partners and co-funded by Erasmus+ Programme of the European Union
-
-### recommendations
-
-- No provided ressources on the website
-
+{{< meta description >}}

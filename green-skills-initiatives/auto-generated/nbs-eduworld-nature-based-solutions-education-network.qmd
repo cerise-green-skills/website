@@ -1,0 +1,50 @@
+---
+contact_email: info@nbseduworld.eu
+content: NBS EduWORLD summarise the state of play of NBS education in Europe and evaluate
+  the initiatives already in place, determine how to expand and replicate them and
+  establish a basis and framework for the project itself and future initiatives, resulting
+  in guidance and (policy) recommendations.
+cost: Free
+creator_name: "European Schoolnet (EUN), Public Policy and Management Institute (PPMI),\
+  \ ICLEI Europe (ICLEI), Centre for Experiments in Urban Studies (CEUS), The Big\
+  \ Van Theory (TBVT), Ellinogermaniki Agogi (EA), European Football for Development\
+  \ Network (EFDN), The Ministry of Youth and Sports of the Republic of Turkey, Trinity\
+  \ College Dublin (TCD), Association Verde e Moldova (VEM), Almada Municipality (CMA),\
+  \ Horizon Nua (HNUA), Mus\xE9um national d'histoire naturelle (MNHN), Municipality\
+  \ of Genoa (CDG), Natural Solutions (NS), Offaly County Council (OCC)\n"
+creator_role: Consortium
+description: NBS EduWORLD is a Horizon Europe project at the crossroads between nature-based
+  solutions and education, a forerunner project blending the two topics. The result
+  is a unique consortium bringing together researchers, educators, NBS practitioners,
+  and even sports community members with the common goal of creating engaging and
+  locally relevant educational materials centering the environmental, social, and
+  professional merits of NBS.
+end_date: September 2025
+funded_by: "European Union - Programme HORIZON (Grant Agreement n\xBA 101060525)"
+green_skill_specificity_level: Transversal
+hei_category: Other
+id: 10
+image_url: https://nbseduworld.eu/maintemplate/data/logos/logo.png
+languages: English
+location: NBS EduWORLD Website
+partner: KTU
+provider_name: NBS EduWORLD
+quote: Learn from nature, Teach from nature, Grow from nature
+recommendations: '- Nature-based perspective for teaching
+
+  - Although adaptable to different teaching levels, more appropriate for primary
+  and secondary education?'
+resources: A list of over 200 resources for NBS education and initiatives (including
+  guidance, reports, tools, and services developed around education about NBS).
+start_date: September 2022
+target_audience: Students, Teachers
+thematic_focus: Nature-based Solutions, Waste Management, Water Management, Biodiversity
+  Conservation, Urban planning, Green Building, Environmental Education and Awareness,
+  Community Engagement and Outreach.
+title: NBS EduWORLD (Nature-based Solutions Education Network)
+type: Project
+url_initiative: https://nbseduworld.eu/
+url_resources: https://nbseduworld.eu/resources
+---
+
+{{< meta description >}}

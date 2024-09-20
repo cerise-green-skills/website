@@ -1,98 +1,69 @@
-## EU GREEN
-### Description
+---
+contact_email: 'info@eugreenalliance.eu '
+content: 'EDUCATION: Creation of a specific Pedagogical and Professional Development
+  Programme for teaching and non-academic staff, with the participation of experts
+  in the field;
 
-EU GREEN (responsible GRowth, inclusive Education and ENvironment) is a transnational Alliance of nine European universities aiming to be a Gateway to Sustainability. The projectâs goal is to create a broad European educational area through strengthening and disseminating European values where sustainability is a transversal element. Some of the project activities include creation of pedagogical methodologies and university staff training, research clusters, promotion of entrepreneurship, innovation and mobility in relation to sustainability, community engagement, and others. The project also promotes a participatory methodology to involve the whole academic world (academic staff, non-academic staff and students) in environmental and social challenges and to stimulate behavioural change of all actors towards more sustainable practices.  
+  Organisation of annual teaching concentrations for teaching staff and Staff Weeks
+  for non-academic staff;
 
-### Type of Initiative
-
-Network
-
-### Provider
-
-EU GREEN
-
-### Creator
-
-University of GÃ¤vle (Sweden), Wroclaw University of Environmental and Life Sciences (Poland), UniversitÃ¡ di Parma (Italy), UniversitÃ© DâAngers (France), Universidade de Ãvora (Portugal), Otto von Guericke UniversitÃ¤t Magdeburg (Germany), Atlantic Technological University (Ireland), Universitatea Din Oradea (Romania), and Universidad de Extremadura (Spain).
-
-### description
-
-EU GREEN (responsible GRowth, inclusive Education and ENvironment) is a transnational Alliance of nine European universities aiming to be a Gateway to Sustainability. The projectâs goal is to create a broad European educational area through strengthening and disseminating European values where sustainability is a transversal element. Some of the project activities include creation of pedagogical methodologies and university staff training, research clusters, promotion of entrepreneurship, innovation and mobility in relation to sustainability, community engagement, and others. The project also promotes a participatory methodology to involve the whole academic world (academic staff, non-academic staff and students) in environmental and social challenges and to stimulate behavioural change of all actors towards more sustainable practices.  
-
-### language
-
-English
-
-### url_initiative
-
-https://eugreenalliance.eu/
-
-### resources
-
-e.g., EU GREEN Blended Intensive Programmes (BIPs)
-
-### url_resources
-
-https://eugreenalliance.eu/eu-green-blended-intensive-programmes-bips/
-
-### target_audience
-
-Students, Teachers
-
-### type
-
-Network
-
-### thematic_focus
-
-Environmental Education and Awareness, Sustainable Business Practices, Policy and Governance, Community Engagement and Outreach
-
-### location
-
-EU GREEN website and sites of 9 universities across the EU
-
-### content
-
-EDUCATION: Creation of a specific Pedagogical and Professional Development Programme for teaching and non-academic staff, with the participation of experts in the field;
-Organisation of annual teaching concentrations for teaching staff and Staff Weeks for non-academic staff;
-Creation of a library of pedagogical methodologies.
-
-INNOVATION AND ENTREPRENEURSHIP: Promotion of entrepreneurship, supporting the creation of start-ups and spin-offs focused on sustainability-related products/services. These activities will include:
-summer camps for entrepreneurs, training activities to prepare doctoral students and research staff in sustainable entrepreneurship, a physical space associated to the EU GREEN project in each University (EU GREEN Business Lounges)...
+  Creation of a library of pedagogical methodologies.
 
 
-### impact
+  INNOVATION AND ENTREPRENEURSHIP: Promotion of entrepreneurship, supporting the creation
+  of start-ups and spin-offs focused on sustainability-related products/services.
+  These activities will include:
 
-158
-k students
+  summer camps for entrepreneurs, training activities to prepare doctoral students
+  and research staff in sustainable entrepreneurship, a physical space associated
+  to the EU GREEN project in each University (EU GREEN Business Lounges)...
 
-### creator_name
+  '
+creator_name: "University of G\xE4vle (Sweden), Wroclaw University of Environmental\
+  \ and Life Sciences (Poland), Universit\xE1 di Parma (Italy), Universit\xE9 D\u2019\
+  Angers (France), Universidade de \xC9vora (Portugal), Otto von Guericke Universit\xE4\
+  t Magdeburg (Germany), Atlantic Technological University (Ireland), Universitatea\
+  \ Din Oradea (Romania), and Universidad de Extremadura (Spain)."
+creator_role: Consortium
+description: "EU GREEN (responsible GRowth, inclusive Education and ENvironment) is\
+  \ a transnational Alliance of nine European universities aiming to be a Gateway\
+  \ to Sustainability. The project\u2019s goal is to create a broad European educational\
+  \ area through strengthening and disseminating European values where sustainability\
+  \ is a transversal element. Some of the project activities include creation of pedagogical\
+  \ methodologies and university staff training, research clusters, promotion of entrepreneurship,\
+  \ innovation and mobility in relation to sustainability, community engagement, and\
+  \ others. The project also promotes a participatory methodology to involve the whole\
+  \ academic world (academic staff, non-academic staff and students) in environmental\
+  \ and social challenges and to stimulate behavioural change of all actors towards\
+  \ more sustainable practices.  "
+funded_by: "European Union\xB4s Erasmus+ Programme (Grant Agreement n\xBA 101089896)"
+funding_amount: 14.4 million euros
+hei_category: Other
+id: 1
+image_url: https://eugreenalliance.eu/wp-content/uploads/2022/12/logo-eugreen.png
+impact: '158
 
-University of GÃ¤vle (Sweden), Wroclaw University of Environmental and Life Sciences (Poland), UniversitÃ¡ di Parma (Italy), UniversitÃ© DâAngers (France), Universidade de Ãvora (Portugal), Otto von Guericke UniversitÃ¤t Magdeburg (Germany), Atlantic Technological University (Ireland), Universitatea Din Oradea (Romania), and Universidad de Extremadura (Spain).
+  k students'
+languages: English
+location: EU GREEN website and sites of 9 universities across the EU
+partner: KTU
+provider_name: EU GREEN
+quote: We believe that working with our communities with a global perspective is the
+  best way to create opportunities.
+recommendations: '- In the future, creation of an EU GREEN European Virtual University
 
-### creator_role
+  - Promotion of entrepreneurship, supporting the creation of start-ups and spin-offs
+  focused on sustainability-related products/services.
 
-Consortium
+  '
+resources: e.g., EU GREEN Blended Intensive Programmes (BIPs)
+target_audience: Students, Teachers
+thematic_focus: Environmental Education and Awareness, Sustainable Business Practices,
+  Policy and Governance, Community Engagement and Outreach
+title: EU GREEN
+type: Network
+url_initiative: https://eugreenalliance.eu/
+url_resources: https://eugreenalliance.eu/eu-green-blended-intensive-programmes-bips/
+---
 
-### provider_name
-
-EU GREEN
-
-### contact_email
-
-info@eugreenalliance.eu 
-
-### funded_by
-
-European UnionÂ´s Erasmus+ Programme (Grant Agreement nÂº 101089896)
-
-### funding_amount
-
-14.4 million euros
-
-### recommendations
-
-- In the future, creation of an EU GREEN European Virtual University
-- Promotion of entrepreneurship, supporting the creation of start-ups and spin-offs focused on sustainability-related products/services.
-
-
+{{< meta description >}}

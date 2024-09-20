@@ -1,66 +1,29 @@
-## Green Digital Skills
-### Description
+---
+content: 'Module 1: Foundations of Sustainability in Tech
 
-The INCO Academy Green Digital Skills Certificate program will empower you with the necessary knowledge and practices to act with sustainability and green design in mind.
-By the end, youâll have the in-demand skills to help future-proof your digital career for a greener future.
+  Module 2: Green Design Principles & Practices
 
-### Type of Initiative
+  Module 3: Your Journey to Green & Greening Careers
 
-nan
+  '
+cost: Free
+description: "The INCO Academy Green Digital Skills Certificate program will empower\
+  \ you with the necessary knowledge and practices to act with sustainability and\
+  \ green design in mind.\nBy the end, you\u2019ll have the in-demand skills to help\
+  \ future-proof your digital career for a greener future."
+duration: 18-25 hours (to be completed within 5 weeks)
+funded_by: 'Microsoft and LinkedIn '
+id: 22
+image_url: https://static.wixstatic.com/media/e37d76_6b6fa4cdce9d4635be4b2f4c4c48fa43~mv2.png/v1/fill/w_470,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%5BGreen%20Digital%20Skills%5D%20Program%20Logo%20-%20Colour.png
+languages: English, French, Polish, Spanish, Greek, Indonesia, Portuguese
+location: Website
+partner: UniLu
+provider_name: INCO Academy
+quote: Boost your digital career for a greener future
+recommendations: upskill individuals with sustainability and green design in mind.
+target_audience: Students
+title: Green Digital Skills
+url_initiative: https://www.greenskills.inco-group.co/
+---
 
-### Provider
-
-INCO Academy
-
-### Creator
-
-nan
-
-### description
-
-The INCO Academy Green Digital Skills Certificate program will empower you with the necessary knowledge and practices to act with sustainability and green design in mind.
-By the end, youâll have the in-demand skills to help future-proof your digital career for a greener future.
-
-### language
-
-English, French, Polish, Spanish, Greek, Indonesia, Portuguese
-
-### url_initiative
-
-https://www.greenskills.inco-group.co/
-
-### target_audience
-
-Students
-
-### location
-
-Website
-
-### content
-
-Module 1: Foundations of Sustainability in Tech
-Module 2: Green Design Principles & Practices
-Module 3: Your Journey to Green & Greening Careers
-
-
-### duration
-
-18-25 hours (to be completed within 5 weeks)
-
-### cost
-
-Free
-
-### provider_name
-
-INCO Academy
-
-### funded_by
-
-Microsoft and LinkedIn 
-
-### recommendations
-
-upskill individuals with sustainability and green design in mind.
-
+{{< meta description >}}

@@ -1,0 +1,11 @@
+---
+description: LinkedIn's latest annual report on green skills
+id: 9
+image_url: https://www.edge.co.uk/images/K1UKdgr5lHxlwjdUsq6UgaOdnco=/1806/max-650x650/Global_Green_Skills_Report_2023.png
+link: https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/global-green-skills-report/green-skills-report-2023.pdf
+related_countries: Global
+target_domain: Green skills, green jobs
+title: LinkedIn's Global Green Skills Report
+---
+
+{{< meta description >}}
