@@ -8,7 +8,7 @@ target_domain: Green skills, green jobs
 title: LinkedIn's Global Green Skills Report
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

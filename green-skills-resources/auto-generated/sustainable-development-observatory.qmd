@@ -10,7 +10,7 @@ target_domain: Green Initiatives Repository
 title: Sustainable Development Observatory
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

@@ -9,7 +9,7 @@ target_domain: Green skills, green jobs
 title: LinkedIn's List of Green Resources
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

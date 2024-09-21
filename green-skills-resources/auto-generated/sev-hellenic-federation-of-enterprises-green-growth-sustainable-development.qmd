@@ -18,7 +18,7 @@ title: "SEV \u2013 Hellenic Federation of Enterprises: Green Growth & Sustainabl
   \ Development"
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

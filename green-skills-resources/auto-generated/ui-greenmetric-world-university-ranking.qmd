@@ -16,7 +16,7 @@ target_domain: University rankings
 title: UI GreenMetric World University Ranking
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

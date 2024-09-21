@@ -10,7 +10,7 @@ target_domain: Green skills, green jobs
 title: ESCO Green Taxonomy
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

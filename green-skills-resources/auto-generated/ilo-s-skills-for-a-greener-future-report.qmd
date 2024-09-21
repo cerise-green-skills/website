@@ -9,7 +9,7 @@ target_domain: Green transition, green skills
 title: ILO's skills for a greener future report
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

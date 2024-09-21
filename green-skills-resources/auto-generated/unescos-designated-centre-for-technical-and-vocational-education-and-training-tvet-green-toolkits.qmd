@@ -17,7 +17,7 @@ title: "UNESCO\u2019s designated centre for technical and vocational education a
   \ training (TVET): Green toolkits"
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

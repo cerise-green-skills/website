@@ -11,7 +11,7 @@ target_domain: Energy, green jobs
 title: CEDEFOP's dashboard for greenness and green pervasiveness in sectors
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 

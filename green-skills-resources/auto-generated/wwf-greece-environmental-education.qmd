@@ -10,7 +10,7 @@ target_domain: Green education
 title: 'WWF-Greece: Environmental Education'
 ---
 
-![{{< meta title >}}]({{< meta image >}})
+![]({{< meta image >}})
 
 ### Link
 
