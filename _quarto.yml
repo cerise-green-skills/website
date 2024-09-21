@@ -10,7 +10,7 @@ website:
 
     left:
       - text: "The Project"
-        href: about.qmd
+        href: index.qmd
 
       - text: "Initiatives"
         href: green-skills-initiatives.qmd
