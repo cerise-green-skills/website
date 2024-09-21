@@ -37,7 +37,7 @@ description: "A Roadmap to Energy Management and Sustainable Development has bee
   \ & Research\n- Community & Culture"
 hei_category: Other
 id: 14
-image: http://envio.ntua.gr/v1/wp-content/uploads/2021/05/logo-envio-02.jpg
+image: https://cerise-green-skills.github.io/website/assets/img/logo-envio-02.png
 languages: 'English, Greek
 
   '
