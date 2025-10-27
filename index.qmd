@@ -19,10 +19,10 @@ The general objective of the project is strengthening capacity of European Highe
  - **Period of project implementation:** 2024-02-01 - 2026-05-31
  - **Project coordinator:** [University of Luxembourg (UniLu)](https://www.uni.lu/en/)
  - **Project partners:** 
-   - [Web2Learn](www.web2learn.eu) 
-   - [National Technical University of Athens (NTUA)](www.ntua.gr)
-   - [Université de Lorraine (UL)](www.univ-lorraine.fr)
-   - [University of Information Technology and Management in Rzeszów (UITM)](www.wsiz.rzeszow.pl)
+   - [Web2Learn](https://www.web2learn.eu) 
+   - [National Technical University of Athens (NTUA)](https://www.ntua.gr)
+   - [Université de Lorraine (UL)](https://www.univ-lorraine.fr)
+   - [University of Information Technology and Management in Rzeszów (UITM)](https://www.wsiz.rzeszow.pl)
    - [Kaunas University of Technology (KTU)](https://en.ktu.edu/projects/capacity-building-and-technologies-for-green-skills-orientedness-at-european-universities-cerise/)
 
 
