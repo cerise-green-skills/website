@@ -54,7 +54,4 @@ page-footer:
       <div style="text-align: right;">
         <span style="font-size:0.9em; color:#333;">© 2025 — Tous droits réservés</span>
       </div>
-format:
-  html:
-    theme: default
-    css: styles.css
+
