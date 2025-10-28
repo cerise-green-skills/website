@@ -45,8 +45,16 @@ website:
   #     contents:
   #       - green-skills-resources.qmd
 
+
+
+page-footer:
+    left: |
+      <div style="display: flex; align-items: center;">
+        <img src="images/1680161519-kl-EN Co-funded by the EU_POS.jpg" style="   
+      <div style="text-align: right;">
+        <span style="font-size:0.9em; color:#333;">© 2025 — Tous droits réservés</span>
+      </div>
 format:
   html:
-    theme: cosmo
-    css: assets/css/styles.css
-    toc: false
+    theme: default
+    css: styles.css
