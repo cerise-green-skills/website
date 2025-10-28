@@ -20,13 +20,8 @@ The general objective of the project is strengthening capacity of European Highe
  - **Project coordinator:** [University of Luxembourg (UniLu)](https://www.uni.lu/en/){.external target="_blank"}
  - **Project partners:** 
    - [Web2Learn](https://www.web2learn.eu){.external target="_blank"}
-   - [National Technical University of Athens (NTUA)](https://www.ntua.gr) {.external target="_blank"}
-   - [Université de Lorraine (UL)](https://www.univ-lorraine.fr) {.external target="_blank"}
-   - [University of Information Technology and Management in Rzeszów (UITM)](https://www.wsiz.rzeszow.pl) {.external target="_blank"}
-   - [Kaunas University of Technology (KTU)](https://en.ktu.edu/projects/capacity-building-and-technologies-for-green-skills-orientedness-at-european-universities-cerise/) {.external target="_blank"}
-
-
----
-
-![](assets/img/1680161519-kl-EN%20Co-funded%20by%20the%20EU_POS.jpg){width=50%}
+   - [National Technical University of Athens (NTUA)](https://www.ntua.gr){.external}
+   - [Université de Lorraine (UL)](https://www.univ-lorraine.fr){.external target="_blank"}
+   - [University of Information Technology and Management in Rzeszów (UITM)](https://www.wsiz.rzeszow.pl){.external target="_blank"}
+   - [Kaunas University of Technology (KTU)](https://en.ktu.edu/projects/capacity-building-and-technologies-for-green-skills-orientedness-at-european-universities-cerise/){.external target="_blank"}
 
