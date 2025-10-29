@@ -19,23 +19,24 @@ website:
         
       - text: "Resources"
         href: green-skills-resources.qmd
-  
   page-footer:
-   left: |
-      <div class="footer-left-inline">
-      <img src="assets/img/1680161519-kl-EN Co-funded by the EU_POS.jpg" alt="EU logo" class="footer-logo">
-      <span class="footer-text">
-            Co-funded by the European Union. All rights reserved. Funded by the European Union.
-            Views and opinions expressed are those of the author(s) only and do not necessarily
-            reflect those of the European Union or European Education and Culture Executive Agency (EACEA).
-            Neither the European Union nor the granting authority can be held responsible for them.
-      </span>
-      </div>
-
-      
+    border: true
+    background: light
+    center: |
+      :::{.grid}
+      ::::{.g-col-2}
+      ![](assets/img/1680161519-kl-EN Co-funded by the EU_POS.jpg){.footer-logo fig-alt="EU Logo"}
+      ::::
+      ::::{.g-col-10}
+      Co-funded by the European Union. All rights reserved.
+      <br />Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or European Education and Culture Executive Agency (EACEA).
+      Neither the European Union nor the granting authority can be held responsible for them.
+      ::::
+      :::
 
 format:
   html:
+    theme: cosmo
     css: assets/css/styles.css
 #      - text: "News"
 #        href: news.qmd
