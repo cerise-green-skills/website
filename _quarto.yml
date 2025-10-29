@@ -7,6 +7,7 @@ website:
   title: ""
   page-navigation: true
   favicon: assets/img/CERISE_round.png
+  site-path: website/
   navbar:
     logo: assets/img/CERISE_BackgroundTransparent.png
 
@@ -25,7 +26,7 @@ website:
     center: |
       :::{.grid}
       ::::{.g-col-2}
-      ![](assets/img/1680161519-kl-EN Co-funded by the EU_POS.jpg){.footer-logo fig-alt="EU Logo"}
+      ![](/assets/img/1680161519-kl-EN Co-funded by the EU_POS.jpg){.footer-logo fig-alt="EU Logo"}
       ::::
       ::::{.g-col-10}
       Co-funded by the European Union. All rights reserved.
