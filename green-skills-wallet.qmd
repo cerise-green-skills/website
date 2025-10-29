@@ -7,4 +7,4 @@ This software aims to foster the recognition and development of green skills wit
 [Access the CERISE Digital Wallet](https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
 
 
-[CERISE User manual](CERISE User manual.pdf)
+[CERISE User manual](assets/CERISE User manual.pdf)
