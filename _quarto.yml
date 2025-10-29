@@ -20,6 +20,11 @@ website:
         
       - text: "Resources"
         href: green-skills-resources.qmd
+
+      - text: "Green Skills Wallet"
+        href: green-skills-wallet.qmd
+    
+
   page-footer:
     border: true
     background: light
@@ -63,3 +68,7 @@ format:
   #   - title: "Resources"
   #     contents:
   #       - green-skills-resources.qmd
+
+  #   - title: "Green Skills Wallet"
+  #     contents:
+  #       - green-skills-wallet.qmd
