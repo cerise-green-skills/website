@@ -1,4 +1,6 @@
 /.quarto/
 /_site/
-/scripts
+
+.DS_Store
+
 **/*.quarto_ipynb
