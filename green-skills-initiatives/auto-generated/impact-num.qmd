@@ -60,7 +60,7 @@ end_date: anytime
 green_skill_specificity_level: Domain-general
 hei_category: Green skills courses
 id: 21
-image: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/d1/15/d115473e-b08e-4974-a41f-ab2c763c9157/moocimpactnumvignette_cataloguefun-fr.png__600x340_q85_crop-smart_subsampling-2_upscale.jpg
+image: https://www.fun-mooc.fr/static/richie/images/logo-en.svg
 languages: French, English
 location: 'Online: https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/'
 partner: UniLu
