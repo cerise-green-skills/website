@@ -25,7 +25,7 @@ funded_by: "The French government as part of the \u201CTerritoires d'innovation 
 green_skill_specificity_level: 'Transversal, Domain specific '
 hei_category: Labor Market
 id: 19
-image: https://dz03nossv7tsm.cloudfront.net/media/filer_public_thumbnails/filer_public/cf/c1/cfc1f0ba-b0af-40aa-8e8b-4d95a84f9d9b/uved34011session01.png__800x457_q85_crop_replace_alpha-%23FFFFFF_subsampling-2_upscale.jpg
+image: https://www.uved.fr/fileadmin/user_upload/Images/Bandeau/Bandeau_Portail_MOOC_MetiersTE.png
 impact: '27490 registred particpants in total (since 2020) '
 languages: French
 location: MOOC (FUN Mooc) + once the sessions have ended, outside the MOOC context
