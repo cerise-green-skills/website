@@ -4,7 +4,7 @@ project:
     - "assets/**/*"
 
 website:
-  title: "CERISE"
+  title: ""
   page-navigation: true
   favicon: assets/img/CERISE_round.png
   site-path: website/
