@@ -1,21 +1,13 @@
-
-
-[![](assets/img/CeriseWallet.png){fig-align="center" width="70%"}](https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
-
-
 # Green Skills Wallet
 
 Cerise is a system prototype in the form of a digital wallet that offers students the opportunity to document and store their green skills at various degrees of skills acquisition and development.
 
 This software aims to foster the recognition and development of green skills within the higher education sector.
 
+[![](assets/img/CeriseWallet.png){fig-align="center" width="50%"}](https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
+
+
+
 [Access the CERISE Digital Wallet](https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
 
-
 [CERISE User manual](assets/CERISE User manual.pdf)
-
-
-
-
-
-
