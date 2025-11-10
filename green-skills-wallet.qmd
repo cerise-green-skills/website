@@ -1,3 +1,8 @@
+---
+title: Green Skills Wallet
+---
+
+
 # Green Skills Wallet
 
 Cerise is a system prototype in the form of a digital wallet that offers students the opportunity to document and store their green skills at various degrees of skills acquisition and development.

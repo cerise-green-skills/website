@@ -1,4 +1,5 @@
 ---
+title: Green Skills Initiatives
 listing: 
   id: initiatives-listing
   page-size: 100
