@@ -40,7 +40,7 @@ funded_by: "European Union\xB4s Erasmus+ Programme (Grant Agreement n\xBA 101089
 funding_amount: 14.4 million euros
 hei_category: Other
 id: 1
-image: https://cerise-green-skills.github.io/website/assets/img/external/logo_envio_02.png
+image: https://cerise-green-skills.github.io/website/assets/img/external/logo_EU_Green.png
 impact: '158
 
   k students'
