@@ -8,3 +8,6 @@ This software aims to foster the recognition and development of green skills wit
 
 
 [CERISE User manual](assets/CERISE User manual.pdf)
+
+
+![](website/assets/img/CeriseWallet.png){fig-align="center"}
