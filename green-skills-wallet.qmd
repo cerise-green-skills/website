@@ -15,4 +15,4 @@ This software aims to foster the recognition and development of green skills wit
 
 
 
-[![](assets/img/CeriseWallet.png){fig-align="center" width="70%"}] (https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
+[![](assets/img/CeriseWallet.png){fig-align="center" width="70%"}](https://dashboard.cerise.web2learn.eu/){.external target="_blank"}
