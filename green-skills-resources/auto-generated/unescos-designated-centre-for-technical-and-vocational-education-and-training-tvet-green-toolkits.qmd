@@ -9,7 +9,7 @@ description: 'This platform aims to provide TVET stakeholders and practitioners 
   bring the many and varied toolkits into one place and to provide a guide and resource
   for:'
 id: 20
-image: https://unevoc.unesco.org/august/logo-unevoc.png
+image: https://connect.unevoc.unesco.org/connect/pix/connect-bg-cloud.jpg
 link: https://unevoc.unesco.org/home/Toolkits+for+TVET+providers/lang=en#tbar
 related_countries: Global
 target_domain: Repository of toolkits
