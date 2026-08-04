@@ -20,7 +20,7 @@ funded_by: European Union
 green_skill_specificity_level: Transversal
 hei_category: Green skills courses
 id: 7
-image: https://www.erasmustrainingcourses.com/uploads/6/5/6/3/65630323/editor/logoelatextblue.png?1616195789
+image: 	https://erasmustrainingcourses.com/wp-content/plugins/ela-plugin/style/img/green-skills.jpg
 languages: English
 location: Physical location (Bologna, Tenerife, Palermo, Porto, Thessaloniki)
 partner: UL
