@@ -22,6 +22,7 @@ The general objective of the project is strengthening capacity of European Highe
    - [Web2Learn](www.web2learn.eu) 
    - [National Technical University of Athens (NTUA)](www.ntua.gr)
    - [Universite de Lorraine (UL)](www.univ-lorraine.fr)
+   - [Aix Marseille Université (AmU)](www.univ-amu.fr)
    - [University of Information Technology and Management in Rzeszów (UITM)](www.wsiz.rzeszow.pl)
    - [Kaunas University of Technology (KTU)](https://en.ktu.edu/projects/capacity-building-and-technologies-for-green-skills-orientedness-at-european-universities-cerise/)
 
