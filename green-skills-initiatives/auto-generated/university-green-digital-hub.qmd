@@ -17,14 +17,14 @@ description: The main goal of the project University Green Digital HUB is to dev
   credentials and/or diploma supplements for completion of courses.
 funded_by: This project has been funded with support from the European Commission.
 id: 13
-image: https://www.ugd-hub.com/wp-content/uploads/2023/05/3-1-e1683504684889.png
+image: https://ugc.production.linktr.ee/DGamPMsQAKFbLPTa57Zh_c8w6E8azdugYZvz5?io=true&size=avatar-v3_0
 languages: English, Croatian, Spanish, German, Dutch
 partner: UniLu
 provider_name: University Green Digital HUB
 quote: Developing DGE skills
 resources: Mooc
 title: University Green Digital HUB
-url_initiative: https://www.ugd-hub.com/
+url_initiative: https://www.facebook.com/UGD.HUB/
 url_resources: https://e-learning.ugd-hub.com/
 ---
 
